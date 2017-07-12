@@ -19,11 +19,22 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Toggl](https://toggl.com)|:free:|:uk:|Time tracker, has free tariff.|
+|[Trello](https://trello.com/home)|:free: + :moneybag:|:ru:|Планировщик задач с карточками и списками.|
 |[Testprovider](http://testprovider.com/)|:moneybag:|:ru:|Тестирование по ИТ-специальностям.|
 |||||
 |||||
 |||||
+
+# CSS
+
+| Resource | Type | Lang. | Description |
+-----------|------|----------|--------------
+|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:movie_camera:|:uk:|CSS drawind screencast.|
+|[Daily CSS Images](http://dailycssimages.com/)|:wrench:|:uk:|Free 50-day email challenge for mastering pure CSS images.|
+|[100 Days CSS](https://100dayscss.com/)|:wrench:|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |||||
+|||||
+
 
 # JavaScript
 
