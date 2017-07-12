@@ -19,8 +19,7 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Toggl](https://toggl.com)|:free:|:uk:|Time tracker, has free tariff.|
-|||||
-|||||
+|[Testprovider](http://testprovider.com/)|:moneybag:|:ru:|Тестирование по ИТ-специальностям.|
 |||||
 |||||
 |||||
@@ -31,7 +30,7 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:books:|:ru:|Перевод стандарта ES5 с аннотациями.|
-|||||
+|[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:books:|:uk:|Pug official documentation.|
 |||||
 |||||
 |||||
@@ -41,10 +40,22 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:books:|:gb:|List of all Emoji codes|
+|[Geekbrains вебинары](https://geekbrains.ru/events)|:free:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
 |||||
 |||||
 |||||
+
+# Coding sandboxes
+
+| Resource | Type | Lang. | Description |
+-----------|------|----------|--------------
+|[freeCodeCamp](https://www.freecodecamp.org/)|:wrench:|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
+|[JSFiddle](https://jsfiddle.net/)|:free:|:uk:|HTML, CSS, JS simple sandbox.|
 |||||
+|||||
+|||||
+
+
 
 # Копирайтинг
 
