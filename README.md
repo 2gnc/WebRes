@@ -51,7 +51,7 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:books:|:gb:|List of all Emoji codes|
-|[Geekbrains вебинары](https://geekbrains.ru/events)|:free:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
+|[Geekbrains вебинары](https://geekbrains.ru/events)|:movie_camera:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:movie_camera:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |||||
 |||||
