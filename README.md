@@ -6,6 +6,9 @@
 3. Сделайте commit и push вашей копии в форк на GitHub.
 4. Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.
 
+Если Вы обнаружили битую ссылку, поожалуйста, создайте тикет.
+
+
 # Graphic & Design services
 | Resource | Lang. | Description |
 -----------|-------|--------------
@@ -60,7 +63,12 @@
 |[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru:|Записи встреч Minsk CSS на Youtube.|
 ||||
 ||||
-||||
+
+
+# HTML
+| Resource | Lang. | Description |
+|----------|-------|-------------|
+|[HTML5 Specification](https://www.w3.org/TR/html5/)|:uk:|W3C HTML5 specification.|
 ||||
 
 
