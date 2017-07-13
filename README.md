@@ -33,14 +33,14 @@
 ||||
 
 # Other services
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[Toggl](https://toggl.com)|:free:|:uk:|Time tracker, has free tariff.|
-|[Trello](https://trello.com/home)|:free: + :moneybag:|:ru:|Планировщик задач с карточками и списками.|
-|[Testprovider](http://testprovider.com/)|:moneybag:|:ru:|Тестирование по ИТ-специальностям.|
-|[Online Mockups](https://app.moqups.com/)|:computer:|:uk:|Online mockup tools.|
-|||||
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[Toggl](https://toggl.com)|:uk:|Time tracker, has free tariff.|
+|[Trello](https://trello.com/home)|:ru:|Планировщик задач с карточками и списками.|
+|[Testprovider](http://testprovider.com/)|:ru:|Тестирование по ИТ-специальностям.|
+|[Online Mockups](https://app.moqups.com/)|:uk:|Online mockup tools.|
+||||
+||||
 
 # CSS
 
