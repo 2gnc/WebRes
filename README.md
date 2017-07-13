@@ -81,24 +81,24 @@
 
 # Coding sandboxes
 
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[freeCodeCamp](https://www.freecodecamp.org/)|:computer:|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
-|[JSFiddle](https://jsfiddle.net/)|:computer:|:uk:|HTML, CSS, JS simple sandbox.|
-|[Code Abbey](http://www.codeabbey.com/)|:computer:|:uk:|Code challenges in different languages.|
-|[Solo learn](https://www.sololearn.com/)|:computer:|:uk:|Community of mobile code learners with courses, lessons, quizzes. C++, Java, JavaScript, Pyton, PHP, C#, Swift, Ruby, jQuery, HTML, SQL, CSS.|
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[freeCodeCamp](https://www.freecodecamp.org/)|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
+|[JSFiddle](https://jsfiddle.net/)|:uk:|HTML, CSS, JS simple sandbox.|
+|[Code Abbey](http://www.codeabbey.com/)|:uk:|Code challenges in different languages.|
+|[Solo learn](https://www.sololearn.com/)|:uk:|Community of mobile code learners with courses, lessons, quizzes. C++, Java, JavaScript, Pyton, PHP, C#, Swift, Ruby, jQuery, HTML, SQL, CSS.|
+||||
 
 
 
 # Texts, advertising, marketing, project management
 
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:movie_camera:|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
-|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:movie_camera:|:ru:|Мастер-класс Яндекса по написанию заголовков.|
-|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:movie_camera:|:ru:|Мастер-класс Яндекса по текстам.|
-|||||
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
+|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:ru:|Мастер-класс Яндекса по написанию заголовков.|
+|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:ru:|Мастер-класс Яндекса по текстам.|
+||||
+||||
 
 
