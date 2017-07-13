@@ -16,7 +16,7 @@
 |[Tinypng](https://tinypng.com/)|:uk:|Free JPEG optimizator.|
 |[Adobe Assets](https://assets.adobe.com/)|:uk:|Adobe online tools.|
 |[Palettable](http://www.palettable.io)|:uk:|Color palettes online generator.|
-||||
+|[Adobe Color](https://color.adobe.com/ru/create/color-wheel/)|:ru:|Цветовой круг от Adobe.|
 ||||
 ||||
 
@@ -27,9 +27,11 @@
 |[0 to 255](http://www.0to255.com/)|:uk:|A color tool for finding lighter and darker colors based on any color.|
 |[Depositphotos](https://ru.depositphotos.com/home.html)|:ru:|Стоковые фото, умеренная цена.|
 |[Dribble Freebie](https://dribbble.com/search?q=Freebie)|:uk:|Free resources on Dribble.|
-||||
-||||
-||||
+|[Fribbble](http://www.fribbble.com/)|:uk:|Free PSD files and other free design resources by Dribbblers.|
+|[Graphic boat](http://graphicboat.com/)|:uk:|Free and commercial digital items.|
+|[Unsplash](https://unsplash.com/)|:uk:|Free high-quality photos.|
+|[The Noun Project](https://thenounproject.com/)|:uk:|Big storage of icons, free and commercial.|
+|[Discover color](http://discovercolor.ru/)|:ru:|Красивые цветовые палитры и сочетания цветов.|
 ||||
 
 # Other services
