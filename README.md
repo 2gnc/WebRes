@@ -30,8 +30,8 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:movie_camera:|:uk:|CSS drawind screencast.|
-|[Daily CSS Images](http://dailycssimages.com/)|:wrench:|:uk:|Free 50-day email challenge for mastering pure CSS images.|
-|[100 Days CSS](https://100dayscss.com/)|:wrench:|:uk:|Free 100-day email challenge for mastering pure CSS images.|
+|[Daily CSS Images](http://dailycssimages.com/)|:computer:|:uk:|Free 50-day email challenge for mastering pure CSS images.|
+|[100 Days CSS](https://100dayscss.com/)|:computer:|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |||||
 |||||
 
@@ -42,8 +42,8 @@
 -----------|------|----------|--------------
 |[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:books:|:ru:|Перевод стандарта ES5 с аннотациями.|
 |[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:books:|:uk:|Pug official documentation.|
-|||||
-|||||
+|[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:computer: :free:|:uk:| Interactive JS course. |
+|[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:page_facing_up:|:ru:|Статья про замыкания в JavaScript.|
 |||||
 
 # Miscellaneous
@@ -52,7 +52,7 @@
 -----------|------|----------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:books:|:gb:|List of all Emoji codes|
 |[Geekbrains вебинары](https://geekbrains.ru/events)|:free:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
-|||||
+|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:movie_camera:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |||||
 |||||
 
@@ -60,9 +60,9 @@
 
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
-|[freeCodeCamp](https://www.freecodecamp.org/)|:wrench:|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
-|[JSFiddle](https://jsfiddle.net/)|:free:|:uk:|HTML, CSS, JS simple sandbox.|
-|||||
+|[freeCodeCamp](https://www.freecodecamp.org/)|:computer:|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
+|[JSFiddle](https://jsfiddle.net/)|:computer:|:uk:|HTML, CSS, JS simple sandbox.|
+|[Code Abbey](http://www.codeabbey.com/)|:computer:|:uk:|Code challenges in different languages.|
 |||||
 |||||
 
