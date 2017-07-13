@@ -16,10 +16,9 @@
 |||||
 
 # Design resources
-
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
-|||||
+|[Daily UI](http://www.dailyui.co/)|:computer:|:uk:|100-day challenge for designers.|
 |||||
 
 # Other services
