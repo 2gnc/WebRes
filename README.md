@@ -44,19 +44,19 @@
 
 # CSS
 
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:movie_camera:|:uk:|CSS drawind screencast.|
-|[Daily CSS Images](http://dailycssimages.com/)|:computer:|:uk:|Free 50-day email challenge for mastering pure CSS images.|
-|[100 Days CSS](https://100dayscss.com/)|:computer:|:uk:|Free 100-day email challenge for mastering pure CSS images.|
-|[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. |
-|[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
-|[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:page_facing_up:|:uk:|Nicolas Gallagher: normalize.css description. |
-|[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:movie_camera:|:ru:|Записи встреч Minsk CSS на Youtube.|
-|||||
-|||||
-|||||
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:uk:|CSS drawind screencast.|
+|[Daily CSS Images](http://dailycssimages.com/)|:uk:|Free 50-day email challenge for mastering pure CSS images.|
+|[100 Days CSS](https://100dayscss.com/)|:uk:|Free 100-day email challenge for mastering pure CSS images.|
+|[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:uk:|A detailed explanation of how to creating pure CSS images. |
+|[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
+|[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:uk:|Nicolas Gallagher: normalize.css description. |
+|[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru:|Записи встреч Minsk CSS на Youtube.|
+||||
+||||
+||||
+||||
 
 
 # JavaScript
