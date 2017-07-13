@@ -38,7 +38,7 @@
 |[Toggl](https://toggl.com)|:free:|:uk:|Time tracker, has free tariff.|
 |[Trello](https://trello.com/home)|:free: + :moneybag:|:ru:|Планировщик задач с карточками и списками.|
 |[Testprovider](http://testprovider.com/)|:moneybag:|:ru:|Тестирование по ИТ-специальностям.|
-|[Online Mockups](https://app.moqups.com/)||||
+|[Online Mockups](https://app.moqups.com/)|:computer:|:uk:|Online mockup tools.|
 |||||
 |||||
 
