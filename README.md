@@ -21,8 +21,8 @@
 ||||
 
 # Design resources
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
+| Resource | Lang. | Description |
+-----------|-------|--------------
 |[Daily UI](http://www.dailyui.co/)|:uk:|100-day challenge for designers.|
 |[0 to 255](http://www.0to255.com/)|:uk:|A color tool for finding lighter and darker colors based on any color.|
 |[Depositphotos](https://ru.depositphotos.com/home.html)|:ru:|Стоковые фото, умеренная цена.|
