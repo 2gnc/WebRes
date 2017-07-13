@@ -17,7 +17,7 @@
 |[Adobe Assets](https://assets.adobe.com/)|:uk:|Adobe online tools.|
 |[Palettable](http://www.palettable.io)|:uk:|Color palettes online generator.|
 |[Adobe Color](https://color.adobe.com/ru/create/color-wheel/)|:ru:|Цветовой круг от Adobe.|
-||||
+|[Material design color tool](https://material.io/color/)|:uk:|Material design color palette creator from google.|
 ||||
 
 # Design resources
