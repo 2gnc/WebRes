@@ -49,7 +49,7 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
-|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:uk:|CSS drawind screencast.|
+|:movie_camera: [Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:uk:|CSS drawind screencast.|
 |[Daily CSS Images](http://dailycssimages.com/)|:uk:|Free 50-day email challenge for mastering pure CSS images.|
 |[100 Days CSS](https://100dayscss.com/)|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:uk:|A detailed explanation of how to creating pure CSS images. |
@@ -77,8 +77,8 @@
 | Resource | Lang. | Description |
 -----------|-------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:gb:|List of all Emoji codes|
-|[Geekbrains вебинары](https://geekbrains.ru/events)|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
-|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
+|:movie_camera: [Geekbrains вебинары](https://geekbrains.ru/events)|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
+|:movie_camera: [Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 ||||
 ||||
 
@@ -98,9 +98,9 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
-|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
-|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:ru:|Мастер-класс Яндекса по написанию заголовков.|
-|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:ru:|Мастер-класс Яндекса по текстам.|
+|:movie_camera: [Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
+|:movie_camera: [Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:ru:|Мастер-класс Яндекса по написанию заголовков.|
+|:movie_camera: [Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:ru:|Мастер-класс Яндекса по текстам.|
 ||||
 ||||
 
