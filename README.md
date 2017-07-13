@@ -95,7 +95,12 @@
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
 |[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
 |Вебстандарты: [Подкаст](https://soundcloud.com/web-standards), [Facebook](https://www.facebook.com/webstandardsru)|:ru:|Регулярные новости о фронтенде.|
+|[Руководство по веб-шрифтам](http://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)|:ru:|Исчерпывающее руководство по стратегиям загрузки веб-шрифтов.|
+|[Руководство по цветам в веб](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)|:ru:|Механизмы работы цыета в браузерах.|
 ||||
+||||
+||||
+
 
 # Coding sandboxes
 
