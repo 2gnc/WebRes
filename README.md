@@ -6,7 +6,7 @@
 3. Сделайте commit и push вашей копии в форк на GitHub.
 4. Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.
 
-# Graphic services
+# Graphic & Design services
 | Resource | Lang. | Description |
 -----------|-------|--------------
 |[Photopea](https://www.photopea.com/)|:uk:|Online editor of PSD, XCF and Sketch formats.|
@@ -15,7 +15,7 @@
 |[Boxy SVG](https://boxy-svg.com/main.html)|:uk:| Free online SVG editor.|
 |[Tinypng](https://tinypng.com/)|:uk:|Free JPEG optimizator.|
 |[Adobe Assets](https://assets.adobe.com/)|:uk:|Adobe online tools.|
-||||
+|[Palettable](http://www.palettable.io)|:uk:|Color palettes online generator.|
 ||||
 ||||
 ||||
@@ -80,6 +80,7 @@
 |[Geekbrains вебинары](https://geekbrains.ru/events) :arrow_forward:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/) :arrow_forward:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
+|[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
 ||||
 
 # Coding sandboxes
