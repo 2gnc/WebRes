@@ -68,13 +68,13 @@
 
 
 
-# Копирайтинг
+# Texts, advertising, marketing, project management
 
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
-|11|22|33|44|
-|||||
-|||||
+|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:movie_camera:|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
+|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:movie_camera:|:ru:|Мастер-класс Яндекса по написанию заголовков.|
+|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:movie_camera:|:ru:|Мастер-класс Яндекса по текстам.|
 |||||
 |||||
 
