@@ -40,6 +40,9 @@
 |[Testprovider](http://testprovider.com/)|:ru:|Тестирование по ИТ-специальностям.|
 |[Online Mockups](https://app.moqups.com/)|:uk:|Online mockup tools.|
 |[Google Fonts](https://fonts.google.com/)|:uk:|Google fonts online tools.|
+|[Font Awesome](http://fontawesome.io/icons/)|:uk:|Font awesome home page.|
+|[Проверка оптимизации сайтов от Google](https://search.google.com/test/mobile-friendly?hl=ru)|:ru:|Онлайн сервис проверки сайтов на оптимизацию для мобильных устройств.|
+|[CSSMatic](http://www.cssmatic.com/)|:ru:|Online tools for generating CSS code of grabients, box shadows, border radius and noise textures.|
 ||||
 
 # CSS
