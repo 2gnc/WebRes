@@ -26,7 +26,7 @@
 |[Daily UI](http://www.dailyui.co/)|:computer:|:uk:|100-day challenge for designers.|
 |[0 to 255](http://www.0to255.com/)|:books:|:uk:|A color tool for finding lighter and darker colors based on any color.|
 |[Depositphotos](https://ru.depositphotos.com/home.html)|:books:|:ru:|Стоковые фото, умеренная цена.|
-|||||
+|[Dribble Freebie](https://dribbble.com/search?q=Freebie)|:books:|:uk:|Free resources on Dribble.|
 |||||
 |||||
 |||||
@@ -38,7 +38,7 @@
 |[Toggl](https://toggl.com)|:free:|:uk:|Time tracker, has free tariff.|
 |[Trello](https://trello.com/home)|:free: + :moneybag:|:ru:|Планировщик задач с карточками и списками.|
 |[Testprovider](http://testprovider.com/)|:moneybag:|:ru:|Тестирование по ИТ-специальностям.|
-|||||
+|[Online Mockups](https://app.moqups.com/)||||
 |||||
 |||||
 
