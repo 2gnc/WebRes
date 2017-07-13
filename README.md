@@ -25,7 +25,7 @@
 -----------|------|----------|--------------
 |[Daily UI](http://www.dailyui.co/)|:computer:|:uk:|100-day challenge for designers.|
 |[0 to 255](http://www.0to255.com/)|:books:|:uk:|A color tool for finding lighter and darker colors based on any color.|
-|||||
+|[Depositphotos](https://ru.depositphotos.com/home.html)|:books:|:ru:|Стоковые фото, умеренная цена.|
 |||||
 |||||
 |||||
@@ -52,6 +52,8 @@
 |[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. |
 |[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
 |[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:page_facing_up:|:uk:|Nicolas Gallagher: normalize.css description. |
+|[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:movie_camera:|:ru:|Записи встреч Minsk CSS на Youtube.|
+|||||
 |||||
 |||||
 |||||
