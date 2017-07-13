@@ -7,18 +7,18 @@
 4. Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.
 
 # Graphic services
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[Photopea](https://www.photopea.com/)|:free:|:uk:|Online editor of PSD, XCF and Sketch formats.|
-|[Fotor](https://h5.fotor.com)|:free:|:ru:|Простой графический редактор.|
-|[Clara.io](https://clara.io/scenes)|:free:|:uk:|Free 3D online redactor.|
-|[Boxy SVG](https://boxy-svg.com/main.html)|:free:|:uk:| Free online SVG editor.|
-|[Tinypng](https://tinypng.com/)|:computer:|:uk:|Free JPEG optimizator.|
-|[Adobe Assets](https://assets.adobe.com/)|:computer:|:uk:|Adobe online tools.|
-|||||
-|||||
-|||||
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[Photopea](https://www.photopea.com/)|:uk:|Online editor of PSD, XCF and Sketch formats.|
+|[Fotor](https://h5.fotor.com)|:ru:|Простой графический редактор.|
+|[Clara.io](https://clara.io/scenes)|:uk:|Free 3D online redactor.|
+|[Boxy SVG](https://boxy-svg.com/main.html)|:uk:| Free online SVG editor.|
+|[Tinypng](https://tinypng.com/)|:uk:|Free JPEG optimizator.|
+|[Adobe Assets](https://assets.adobe.com/)|:uk:|Adobe online tools.|
+||||
+||||
+||||
+||||
 
 # Design resources
 | Resource | Type | Lang. | Description |
