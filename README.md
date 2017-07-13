@@ -61,23 +61,23 @@
 
 # JavaScript
 
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:books:|:ru:|Перевод стандарта ES5 с аннотациями.|
-|[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:books:|:uk:|Pug official documentation.|
-|[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:computer: :free:|:uk:| Interactive JS course. |
-|[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:page_facing_up:|:ru:|Статья про замыкания в JavaScript.|
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:ru:|Перевод стандарта ES5 с аннотациями.|
+|[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
+|[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:uk:| Interactive JS course. |
+|[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:ru:|Статья про замыкания в JavaScript.|
+||||
 
 # Miscellaneous
 
-| Resource | Type | Lang. | Description |
------------|------|----------|--------------
-|[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:books:|:gb:|List of all Emoji codes|
-|[Geekbrains вебинары](https://geekbrains.ru/events)|:movie_camera:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
-|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:movie_camera:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
-|||||
-|||||
+| Resource | Lang. | Description |
+-----------|-------|--------------
+|[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:gb:|List of all Emoji codes|
+|[Geekbrains вебинары](https://geekbrains.ru/events)|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
+|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
+||||
+||||
 
 # Coding sandboxes
 
