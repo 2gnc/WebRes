@@ -13,7 +13,7 @@
 |[Fotor](https://h5.fotor.com)|:free:|:ru:|Простой графический редактор.|
 |[Clara.io](https://clara.io/scenes)|:free:|:uk:|Free 3D online redactor.|
 |[Boxy SVG](https://boxy-svg.com/main.html)|:free:|:uk:| Free online SVG editor.|
-|||||
+|[Tinypng](https://tinypng.com/)|:computer:|:uk:|Free JPEG optimizator.|
 |||||
 |||||
 |||||
