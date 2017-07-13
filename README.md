@@ -6,7 +6,7 @@
 3. Сделайте commit и push вашей копии в форк на GitHub.
 4. Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.
 
-Если Вы обнаружили битую ссылку, поожалуйста, создайте тикет.
+Если Вы обнаружили битую ссылку, пожалуйста, создайте тикет.
 
 
 # Graphic & Design services
@@ -61,7 +61,7 @@
 |[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
 |[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:uk:|Nicolas Gallagher: normalize.css description. |
 |[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru:|Записи встреч Minsk CSS на Youtube.|
-||||
+|[На 100% правильный способ делать контрольные точки в CSS](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html)|:ru:|Про адаптивную верстку и контрольные точки в медиа-запросах.|
 ||||
 
 
@@ -91,6 +91,7 @@
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/) :arrow_forward:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
 |[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
+|Вебстандарты: [Подкаст на SoundCloud](https://soundcloud.com/web-standards) [Facebook](https://www.facebook.com/webstandardsru)|:ru:|Регулярные новости о фронтенде.|
 ||||
 
 # Coding sandboxes
