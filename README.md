@@ -39,7 +39,7 @@
 |[Trello](https://trello.com/home)|:ru:|Планировщик задач с карточками и списками.|
 |[Testprovider](http://testprovider.com/)|:ru:|Тестирование по ИТ-специальностям.|
 |[Online Mockups](https://app.moqups.com/)|:uk:|Online mockup tools.|
-||||
+|[Google Fonts](https://fonts.google.com/)|:uk:|Google fonts online tools.|
 ||||
 
 # CSS
