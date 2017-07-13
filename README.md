@@ -35,7 +35,10 @@
 |[Unsplash](https://unsplash.com/)|:uk:|Free high-quality photos.|
 |[The Noun Project](https://thenounproject.com/)|:uk:|Big storage of icons, free and commercial.|
 |[Discover color](http://discovercolor.ru/)|:ru:|Красивые цветовые палитры и сочетания цветов.|
+|[Подборка материалов о материальном дизайне](https://awdee.ru/material-design-full-guide/)|:ru:|Объяснение, ссылки на официальные руководства для дизайнеров и разработчиков, исходники и неофициальные вспомогательные материалы (2015).|
+|[Руководство Гугл по материальному дизайну](http://css-live.ru/articles/materialnyj-dizajn-vvedenie.html)|:ru:|Перевод от CSS-live.ru|
 ||||
+
 
 # Other services
 | Resource | Lang. | Description |
@@ -91,7 +94,7 @@
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/) :arrow_forward:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
 |[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
-|Вебстандарты: [Подкаст на SoundCloud](https://soundcloud.com/web-standards) [Facebook](https://www.facebook.com/webstandardsru)|:ru:|Регулярные новости о фронтенде.|
+|Вебстандарты: [Подкаст](https://soundcloud.com/web-standards), [Facebook](https://www.facebook.com/webstandardsru)|:ru:|Регулярные новости о фронтенде.|
 ||||
 
 # Coding sandboxes
