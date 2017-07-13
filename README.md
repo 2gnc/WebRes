@@ -12,6 +12,11 @@
 |[Photopea](https://www.photopea.com/)|:free:|:uk:|Online editor of PSD, XCF and Sketch formats.|
 |[Fotor](https://h5.fotor.com)|:free:|:ru:|Простой графический редактор.|
 |[Clara.io](https://clara.io/scenes)|:free:|:uk:|Free 3D online redactor.|
+|[Boxy SVG](https://boxy-svg.com/main.html)|:free:|:uk:| Free online SVG editor.|
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 
@@ -19,6 +24,12 @@
 | Resource | Type | Lang. | Description |
 -----------|------|----------|--------------
 |[Daily UI](http://www.dailyui.co/)|:computer:|:uk:|100-day challenge for designers.|
+|[0 to 255](http://www.0to255.com/)|:books:|:uk:|A color tool for finding lighter and darker colors based on any color.|
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 
 # Other services
@@ -40,7 +51,7 @@
 |[100 Days CSS](https://100dayscss.com/)|:computer:|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. |
 |[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:page_facing_up:|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
-|||||
+|[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:page_facing_up:|:uk:|Nicolas Gallagher: normalize.css description. |
 |||||
 |||||
 |||||
@@ -73,7 +84,7 @@
 |[freeCodeCamp](https://www.freecodecamp.org/)|:computer:|:uk:|Free code challenges: HTML, CSS, JS, Node.js, js frameworks|
 |[JSFiddle](https://jsfiddle.net/)|:computer:|:uk:|HTML, CSS, JS simple sandbox.|
 |[Code Abbey](http://www.codeabbey.com/)|:computer:|:uk:|Code challenges in different languages.|
-|||||
+|[Solo learn](https://www.sololearn.com/)|:computer:|:uk:|Community of mobile code learners with courses, lessons, quizzes. C++, Java, JavaScript, Pyton, PHP, C#, Swift, Ruby, jQuery, HTML, SQL, CSS.|
 |||||
 
 
