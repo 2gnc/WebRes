@@ -49,8 +49,10 @@
 |[Online Mockups](https://app.moqups.com/)|:uk:|Online mockup tools.|
 |[Google Fonts](https://fonts.google.com/)|:uk:|Google fonts online tools.|
 |[Font Awesome](http://fontawesome.io/icons/)|:uk:|Font awesome home page.|
+|[Icofont](http://icofont.com/)|:uk:|Many icons.|
 |[Проверка оптимизации сайтов от Google](https://search.google.com/test/mobile-friendly?hl=ru)|:ru:|Онлайн сервис проверки сайтов на оптимизацию для мобильных устройств.|
 |[CSSMatic](http://www.cssmatic.com/)|:ru:|Online tools for generating CSS code of grabients, box shadows, border radius and noise textures.|
+|[Caniuse](http://caniuse.com/)|:uk:|Browser support tables for HTML5, CSS3, JS etc.|
 ||||
 
 # CSS
@@ -72,6 +74,7 @@
 | Resource | Lang. | Description |
 |----------|-------|-------------|
 |[HTML5 Specification](https://www.w3.org/TR/html5/)|:uk:|W3C HTML5 specification.|
+|[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
 ||||
 
 
@@ -80,7 +83,6 @@
 | Resource | Lang. | Description |
 -----------|-------|--------------
 |[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:ru:|Перевод стандарта ES5 с аннотациями.|
-|[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
 |[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:uk:| Interactive JS course. |
 |[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:ru:|Статья про замыкания в JavaScript.|
 ||||
