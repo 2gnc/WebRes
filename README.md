@@ -86,6 +86,7 @@
 |[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:uk:| Interactive JS course. |
 |[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:ru:|Статья про замыкания в JavaScript.|
 |[Базовый Javascript от Loftblog](https://loftblog.ru/material/osnovy-javascript-1-tipy-dannyx/)|:ru:|Базовый видеокурс от Loftblog по JavaScript.|
+|[Упрощённый JavaScript-жаргон](https://github.com/andrew--r/SJSJ)|:ru:|Словарь фронтенд-терминов.|
 ||||
 
 # Miscellaneous
