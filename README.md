@@ -67,6 +67,7 @@
 |[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:uk:|Nicolas Gallagher: normalize.css description. |
 |[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru:|Записи встреч Minsk CSS на Youtube.|
 |[На 100% правильный способ делать контрольные точки в CSS](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html)|:ru:|Про адаптивную верстку и контрольные точки в медиа-запросах.|
+|[О режимах наложения в CSS без тайн](http://css-live.ru/articles/o-rezhimax-nalozheniya-v-css-bez-tajn.html)|:ru:|Обзорная статья о способах наложения слоев и режимах смешивания.|
 ||||
 
 
