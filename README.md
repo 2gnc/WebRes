@@ -85,6 +85,7 @@
 |[ECMAScript 5.1 с аннотациями](http://es5.javascript.ru/)|:ru:|Перевод стандарта ES5 с аннотациями.|
 |[Code Academy: JavaScript](https://www.codecademy.com/en/tracks/javascript-combined)|:uk:| Interactive JS course. |
 |[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:ru:|Статья про замыкания в JavaScript.|
+|[Базовый Javascript от Loftblog](https://loftblog.ru/material/osnovy-javascript-1-tipy-dannyx/)|:ru:|Базовый видеокурс от Loftblog по JavaScript.|
 ||||
 
 # Miscellaneous
