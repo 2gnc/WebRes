@@ -59,13 +59,13 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
-|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos) :arrow_forward:|:uk:|CSS drawind screencast.|
+|[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:uk: :arrow_forward:|CSS drawind screencast.|
 |[Daily CSS Images](http://dailycssimages.com/)|:uk:|Free 50-day email challenge for mastering pure CSS images.|
 |[100 Days CSS](https://100dayscss.com/)|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:uk:|A detailed explanation of how to creating pure CSS images. |
 |[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
 |[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:uk:|Nicolas Gallagher: normalize.css description. |
-|[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru:|Записи встреч Minsk CSS на Youtube.|
+|[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru: :arrow_forward:|Записи встреч Minsk CSS на Youtube.|
 |[На 100% правильный способ делать контрольные точки в CSS](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html)|:ru:|Про адаптивную верстку и контрольные точки в медиа-запросах.|
 |[О режимах наложения в CSS без тайн](http://css-live.ru/articles/o-rezhimax-nalozheniya-v-css-bez-tajn.html)|:ru:|Обзорная статья о способах наложения слоев и режимах смешивания.|
 |[Modernizr](https://modernizr.com/)|:uk:|JS-library, detects user browser features, add to build cross-browser valid code.|
@@ -99,7 +99,7 @@
 -----------|-------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:gb:|List of all Emoji codes|
 |[Geekbrains вебинары](https://geekbrains.ru/events) :arrow_forward:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
-|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/) :arrow_forward:|:ru:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
+|[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru: :arrow_forward:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
 |[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
 |Вебстандарты: [Подкаст](https://soundcloud.com/web-standards), [Facebook](https://www.facebook.com/webstandardsru)|:ru:|Регулярные новости о фронтенде.|
@@ -125,9 +125,9 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
-|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/) :arrow_forward:|:ru:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
-|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/) :arrow_forward:|:ru:|Мастер-класс Яндекса по написанию заголовков.|
-|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/) :arrow_forward:|:ru:|Мастер-класс Яндекса по текстам.|
+|[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:ru: :arrow_forward:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
+|[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:ru: :arrow_forward:|Мастер-класс Яндекса по написанию заголовков.|
+|[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:ru: :arrow_forward:|Мастер-класс Яндекса по текстам.|
 ||||
 ||||
 
