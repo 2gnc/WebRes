@@ -98,7 +98,7 @@
 | Resource | Lang. | Description |
 -----------|-------|--------------
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:gb:|List of all Emoji codes|
-|[Geekbrains вебинары](https://geekbrains.ru/events) :arrow_forward:|:ru:|Вебинары на разные ИТ-темы, есть интересные.|
+|[Geekbrains вебинары](https://geekbrains.ru/events)|:ru: :arrow_forward:|Вебинары на разные ИТ-темы, есть интересные.|
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru: :arrow_forward:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
 |[Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)|:uk:|Full cheat sheet of Emmet for Sublime Text3.|
 |[Горячие клавиши Sublime Text3](http://sublimetext.ru/documentation/hotkeys)|:ru:|Полный список дефолтных клавиатурных сокращений для Sublime Text3.|
