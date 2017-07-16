@@ -71,6 +71,7 @@
 |[Modernizr](https://modernizr.com/)|:uk:|JS-library, detects user browser features, add to build cross-browser valid code.|
 |[Как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/frontend/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah/)|:ru:|Добробная статья с иллюстрациями о работе Flexbox. Часть 1.|
 |[Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/frontend/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah/)|:ru:|Добробная статья с иллюстрациями о работе Flexbox. Часть 2.|
+|[Полное руководство по Flexbox](https://tuhub.ru/frontend/flexbox-complete-guide/)|:ru:|Перевод статьи Криса Койера.|
 
 
 # HTML
