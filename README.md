@@ -41,6 +41,7 @@ If you found a broken link, please create a ticket.
 |[Draw.io](https://www.draw.io/)|:ru:|Сервис для создания диаграмм, блок-схем и графиков. Есть экспорт и синхронизация с Dropbox и Github.|
 |[Getcover](http://getcover.ru/)|:ru:|Сервис шаблонов разлчных устройств: мобильные телефоны, ноутбуки, браузеры.|
 |[Placeholder](https://placeholder.com/)|:uk:|Online tools for making placeholder images.|
+|[Canva](https://www.canva.com/)|:ru:|Сервис для создания дизайнов для социальных сетей.|
 
 # Design resources
 | Resource | Lang. | Description |
