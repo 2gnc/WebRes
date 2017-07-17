@@ -1,12 +1,18 @@
-# Как улучшить список
-
+## Как улучшить список?
 Если Вы хотите прислать дополнение или исправление:
 1. Создайте свой форк репозитория и склонируйте его на свой диск.
 2. Исправьте/дополните файл у себя.
 3. Сделайте commit и push вашей копии в форк на GitHub.
 4. Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.
-
 Если Вы обнаружили битую ссылку, пожалуйста, создайте тикет.
+
+## How to improuve this list?
+If you want to make an addition or correction: 
+1. Fork this repository and clone it.
+2. Make a fix or addition in your copy.
+3. Commit and push your changes.
+4. Make a pull request.
+If you find a broken link, please create a ticket.
 
 
 # Graphic & Design services
