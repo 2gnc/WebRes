@@ -58,6 +58,7 @@ If you found a broken link, please create a ticket.
 |[Руководство Гугл по материальному дизайну](http://css-live.ru/articles/materialnyj-dizajn-vvedenie.html)|:ru:|Перевод от CSS-live.ru|
 |[Creative Market: Free Goods of the Week](https://creativemarket.com/free-goods)|:uk:|Weekly bundle of 6 free digital goods. Need to subscribe for newsletters.|
 |[Создание дизайна Landing Page](https://habrahabr.ru/post/257211/)|:ru:|Руководство по создания дизайна для Landing page, статья на Habrahabr (2015 г.)|
+|[8 правил подбора цветовой палитры, которые должны знать все](https://habrahabr.ru/company/everydaytools/blog/332956/)|:ru:|Обзорная статья на Habrahabr о правилах подбора цветовой палитры (2017 г.)|
 
 
 # Other services
