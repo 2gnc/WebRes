@@ -39,6 +39,7 @@ If you find a broken link, please create a ticket.
 |[Adobe Color](https://color.adobe.com/ru/create/color-wheel/)|:ru:|Цветовой круг от Adobe.|
 |[Material design color tool](https://material.io/color/)|:uk:|Material design color palette creator from google.|
 |[Draw.io](https://www.draw.io/)|:ru:|Сервис для создания диаграмм, блок-схем и графиков. Есть экспорт и синхронизация с Dropbox и Github.|
+|[Getcover](http://getcover.ru/)|:ru:|Сервис шаблонов разлчных устройств: мобильные телефоны, ноутбуки, браузеры.|
 
 # Design resources
 | Resource | Lang. | Description |
