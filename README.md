@@ -57,6 +57,7 @@ If you found a broken link, please create a ticket.
 |[Подборка материалов о материальном дизайне](https://awdee.ru/material-design-full-guide/)|:ru:|Объяснение, ссылки на официальные руководства для дизайнеров и разработчиков, исходники и неофициальные вспомогательные материалы (2015).|
 |[Руководство Гугл по материальному дизайну](http://css-live.ru/articles/materialnyj-dizajn-vvedenie.html)|:ru:|Перевод от CSS-live.ru|
 |[Creative Market: Free Goods of the Week](https://creativemarket.com/free-goods)|:uk:|Weekly bundle of 6 free digital goods. Need to subscribe for newsletters.|
+|[Создание дизайна Landing Page](https://habrahabr.ru/post/257211/)|:ru:|Руководство по создания дизайна для Landing page, статья на Habrahabr (2015 г.)|
 
 
 # Other services
