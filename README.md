@@ -43,6 +43,7 @@ If you want to make an addition or correction:
 |[Placeholder](https://placeholder.com/)|:uk:|Online tools for making placeholder images.|
 |[Canva](https://www.canva.com/)|:ru:|Сервис для создания дизайнов для социальных сетей.|
 |[easelly](https://www.easel.ly/)|:uk:|Free service for creating infographics.|
+|[Joxi](http://joxi.ru/)|:ru:|Сервис для создания и обмена скриншотами.|
 
 # Design resources
 | Resource | Lang. | Description |
