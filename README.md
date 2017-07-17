@@ -37,7 +37,7 @@
 |[Discover color](http://discovercolor.ru/)|:ru:|Красивые цветовые палитры и сочетания цветов.|
 |[Подборка материалов о материальном дизайне](https://awdee.ru/material-design-full-guide/)|:ru:|Объяснение, ссылки на официальные руководства для дизайнеров и разработчиков, исходники и неофициальные вспомогательные материалы (2015).|
 |[Руководство Гугл по материальному дизайну](http://css-live.ru/articles/materialnyj-dizajn-vvedenie.html)|:ru:|Перевод от CSS-live.ru|
-||||
+|[Creative Market: Free Goods of the Week](https://creativemarket.com/free-goods)|:uk:|Weekly bundle of 6 free digital goods. Need to subscribe for newsletters.|
 
 
 # Other services
