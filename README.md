@@ -40,6 +40,7 @@ If you find a broken link, please create a ticket.
 |[Material design color tool](https://material.io/color/)|:uk:|Material design color palette creator from google.|
 |[Draw.io](https://www.draw.io/)|:ru:|Сервис для создания диаграмм, блок-схем и графиков. Есть экспорт и синхронизация с Dropbox и Github.|
 |[Getcover](http://getcover.ru/)|:ru:|Сервис шаблонов разлчных устройств: мобильные телефоны, ноутбуки, браузеры.|
+|[Placeholder](https://placeholder.com/)|:uk:|Online tools for making placeholder images.|
 
 # Design resources
 | Resource | Lang. | Description |
