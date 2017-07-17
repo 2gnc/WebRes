@@ -38,7 +38,7 @@ If you find a broken link, please create a ticket.
 |[Palettable](http://www.palettable.io)|:uk:|Color palettes online generator.|
 |[Adobe Color](https://color.adobe.com/ru/create/color-wheel/)|:ru:|Цветовой круг от Adobe.|
 |[Material design color tool](https://material.io/color/)|:uk:|Material design color palette creator from google.|
-||||
+|[Draw.io](https://www.draw.io/)|:ru:|Сервис для создания диаграмм, блок-схем и графиков. Есть экспорт и синхронизация с Dropbox и Github.|
 
 # Design resources
 | Resource | Lang. | Description |
@@ -89,6 +89,7 @@ If you find a broken link, please create a ticket.
 |[Как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/frontend/kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gifkah/)|:ru:|Добробная статья с иллюстрациями о работе Flexbox. Часть 1.|
 |[Ещё больше о том как работает Flexbox — объясняем на больших, красочных GIF’ках](https://tuhub.ru/frontend/eshhyo-bolshe-o-tom-kak-rabotaet-flexbox-obyasnyaem-na-bolshih-krasochnyh-gif-kah/)|:ru:|Добробная статья с иллюстрациями о работе Flexbox. Часть 2.|
 |[Полное руководство по Flexbox](https://tuhub.ru/frontend/flexbox-complete-guide/)|:ru:|Перевод статьи Криса Койера.|
+|[WAIT! Animate](http://waitanimate.wstone.io/#!/)|:uk:|Free online CSS3 generator of animations.|
 
 
 # HTML
