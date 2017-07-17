@@ -42,6 +42,7 @@ If you found a broken link, please create a ticket.
 |[Getcover](http://getcover.ru/)|:ru:|Сервис шаблонов разлчных устройств: мобильные телефоны, ноутбуки, браузеры.|
 |[Placeholder](https://placeholder.com/)|:uk:|Online tools for making placeholder images.|
 |[Canva](https://www.canva.com/)|:ru:|Сервис для создания дизайнов для социальных сетей.|
+|[easelly](https://www.easel.ly/)|:uk:|Free service for creating infographics.|
 
 # Design resources
 | Resource | Lang. | Description |
