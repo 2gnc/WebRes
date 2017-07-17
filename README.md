@@ -91,6 +91,7 @@ If you find a broken link, please create a ticket.
 |[Полное руководство по Flexbox](https://tuhub.ru/frontend/flexbox-complete-guide/)|:ru:|Перевод статьи Криса Койера.|
 |[WAIT! Animate](http://waitanimate.wstone.io/#!/)|:uk:|Free online CSS3 generator of animations.|
 |[CSS Animate](http://cssanimate.com/)|:uk:|Free online CSS3 generator of complicated animations.|
+|[CSS Hexagon, Please](http://csshexagon.com/)|:ur:|Free online CSS3 generator of hexagons.|
 
 
 # HTML
