@@ -14,6 +14,17 @@ If you want to make an addition or correction:
 4. Make a pull request.
 If you find a broken link, please create a ticket.
 
+# Оглавление / Table of contents
+* [Graphic & Design services](https://github.com/2gnc/WebRes/blob/master/README.md#graphic--design-services)
+* [Design resources](https://github.com/2gnc/WebRes/blob/master/README.md#design-resources)
+* [Other services](https://github.com/2gnc/WebRes/blob/master/README.md#other-services)
+* [CSS](https://github.com/2gnc/WebRes/blob/master/README.md#css)
+* [HTML](https://github.com/2gnc/WebRes/blob/master/README.md#html)
+* [JavaScript](https://github.com/2gnc/WebRes/blob/master/README.md#javascript)
+* [Miscellaneous](https://github.com/2gnc/WebRes/blob/master/README.md#miscellaneous)
+* [Coding sandboxes](https://github.com/2gnc/WebRes/blob/master/README.md#coding-sandboxes)
+* [Texts, advertising, marketing, project management](https://github.com/2gnc/WebRes/blob/master/README.md#texts-advertising-marketing-project-management)
+
 
 # Graphic & Design services
 | Resource | Lang. | Description |
