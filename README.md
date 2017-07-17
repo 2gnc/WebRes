@@ -12,7 +12,7 @@ If you want to make an addition or correction:
 2. Make a fix or addition in your copy.
 3. Commit and push your changes.
 4. Make a pull request.
-If you find a broken link, please create a ticket.
+If you found a broken link, please create a ticket.
 
 # Оглавление / Table of contents
 * [Graphic & Design services](https://github.com/2gnc/WebRes/blob/master/README.md#graphic--design-services)
