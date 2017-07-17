@@ -71,7 +71,7 @@ If you find a broken link, please create a ticket.
 |[Проверка оптимизации сайтов от Google](https://search.google.com/test/mobile-friendly?hl=ru)|:ru:|Онлайн сервис проверки сайтов на оптимизацию для мобильных устройств.|
 |[CSSMatic](http://www.cssmatic.com/)|:ru:|Online tools for generating CSS code of grabients, box shadows, border radius and noise textures.|
 |[Caniuse](http://caniuse.com/)|:uk:|Browser support tables for HTML5, CSS3, JS etc.|
-||||
+|[Todoist](https://ru.todoist.com/)|:ru:|Планировщик задач и списки дел. Есть бесплатный тарифный план.|
 
 # CSS
 
