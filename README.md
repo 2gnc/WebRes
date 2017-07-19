@@ -88,6 +88,7 @@ If you want to make an addition or correction:
 |[Daily CSS Images](http://dailycssimages.com/)|:uk:|Free 50-day email challenge for mastering pure CSS images.|
 |[100 Days CSS](https://100dayscss.com/)|:uk:|Free 100-day email challenge for mastering pure CSS images.|
 |[A Beginner’s Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)|:uk:|A detailed explanation of how to creating pure CSS images. |
+|[How to Make Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)|:uk:|A 100% free crash course on mastering pure CSS images|
 |[An Intermediate Guide to Pure CSS Images](https://medium.com/coding-artist/an-intermediate-guide-to-pure-css-images-f058e2b30697)|:uk:|A detailed explanation of how to creating pure CSS images. Part 2.|
 |[About normalize.css](http://nicolasgallagher.com/about-normalize-css/)|:uk:|Nicolas Gallagher: normalize.css description. |
 |[Minsk CSS Meetup](https://www.youtube.com/channel/UCbq5voeHkiCc5YducCiuUWA/feed)|:ru: :arrow_forward:|Записи встреч Minsk CSS на Youtube.|
