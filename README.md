@@ -158,7 +158,7 @@ If you want to make an addition or correction:
 |[Как правильно поставить ТЗ на создание сайта](https://events.yandex.ru/lib/talks/3086/)|:ru: :arrow_forward:|Лекция Яндекса про постановку ТЗ на разработку сайта.|
 |[Заголовки: что написать, чтобы читали?](https://events.yandex.ru/lib/talks/4285/)|:ru: :arrow_forward:|Мастер-класс Яндекса по написанию заголовков.|
 |[Как написать хороший текст для сайта](https://events.yandex.ru/lib/talks/3079/)|:ru: :arrow_forward:|Мастер-класс Яндекса по текстам.|
-||||
+|[Пользователи *?:%:?*(:;% на ваши красивые сайты](http://torshina.me/prodazhi-s-pafosnyh-saitov/)|:ru: :underage:|Очень грубо и очень по делу о том, какими должны быть сайты.|
 ||||
 
 
