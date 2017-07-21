@@ -44,7 +44,7 @@ If you want to make an addition or correction:
 |[Canva](https://www.canva.com/)|:ru:|Сервис для создания дизайнов для социальных сетей.|
 |[easelly](https://www.easel.ly/)|:uk:|Free service for creating infographics.|
 |[Joxi](http://joxi.ru/)|:ru:|Сервис для создания и обмена скриншотами.|
-|[Gravit Desigenr](https://www.designer.io/)|:uk:|A full featured free vector design app.|
+|[Gravit Desigener](https://www.designer.io/)|:uk:|A full featured free vector design app.|
 
 # Design resources
 | Resource | Lang. | Description |
