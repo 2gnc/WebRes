@@ -79,6 +79,7 @@ If you want to make an addition or correction:
 |[CSSMatic](http://www.cssmatic.com/)|:ru:|Online tools for generating CSS code of grabients, box shadows, border radius and noise textures.|
 |[Caniuse](http://caniuse.com/)|:uk:|Browser support tables for HTML5, CSS3, JS etc.|
 |[Todoist](https://ru.todoist.com/)|:ru:|Планировщик задач и списки дел. Есть бесплатный тарифный план.|
+|[CSV converter](http://www.convertcsv.com/csv-to-json.htm)|:uk:|Service that converts csv/xls files to other formats, including JSON.|
 
 # CSS
 
