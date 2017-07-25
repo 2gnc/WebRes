@@ -114,7 +114,7 @@ If you want to make an addition or correction:
 |[HTML5 Specification](https://www.w3.org/TR/html5/)|:uk:|W3C HTML5 specification.|
 |[HTML5.1](https://www.w3.org/TR/html51/)|:uk:|W3C Recommendation, 1 November 2016|
 |[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
-||||
+|[Типовая структура страницы в HTML5 по стандарту](http://css-live.ru/articles/legkaya-organizaciya-kontenta-s-html5.html)|:ru:|Краткая шпаргалка на css-live.ru|
 
 
 # JavaScript
