@@ -112,6 +112,7 @@ If you want to make an addition or correction:
 | Resource | Lang. | Description |
 |----------|-------|-------------|
 |[HTML5 Specification](https://www.w3.org/TR/html5/)|:uk:|W3C HTML5 specification.|
+|[HTML5.1 candidate](https://www.w3.org/TR/2016/CR-html51-20160621/)|:uk:|HTML 5.1 W3C Candidate Recommendation |
 |[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
 ||||
 
