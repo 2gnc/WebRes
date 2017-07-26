@@ -1,9 +1,12 @@
 <table>
 	<tr>
-		<td><h2>Как улучшить список?</h2></td>
-		<td><h2>How to improuve this list?</h2></td>
+		<td><h3>Как улучшить список?</h3></td>
+		<td><h3>How to improuve this list?</h3></td>
 	</tr>
-	<tr style="background-color: white">
+	<tr>
+	<td></td><td></td>
+	<tr/>
+	<tr>
 		<td>
 			<ol>
 				<li>Создайте свой форк репозитория и склонируйте его на свой диск.</li>
