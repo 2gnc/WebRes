@@ -130,6 +130,7 @@ If you want to make an addition or correction:
 |[D3 Tutorials](http://serganbus.github.io/d3tutorials/)|:ru:|Перевод английского оригинала D3 Tutorials, написанного Скоттом Мюрреем|
 |[Getting Started with D3](http://www.gtz.com/docs/_books/Getting_Started_with_D3.pdf)|:uk:|PDF-book from ORelly by Mike Dewar.|
 |[D3.js – визуализируй свои идеи!](https://geekbrains.ru/events/50)|:ru: :arrow_forward:|Вебинар на Geek brains, слегка затянутый, но достаточно подробный. Для новичков.|
+|[D3.js – создаем карту с визуализацией!](https://geekbrains.ru/events/60)|:ru:|Вебинар по созданию карты.|
 
 # Miscellaneous
 
