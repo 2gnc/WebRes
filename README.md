@@ -126,7 +126,8 @@ If you want to make an addition or correction:
 |[Давайте выучим замыкания в JavaScript](https://htmlacademy.ru/blog/195-lets-learn-javascript-closures)|:ru:|Статья про замыкания в JavaScript.|
 |[Базовый Javascript от Loftblog](https://loftblog.ru/material/osnovy-javascript-1-tipy-dannyx/)|:ru:|Базовый видеокурс от Loftblog по JavaScript.|
 |[Упрощённый JavaScript-жаргон](https://github.com/andrew--r/SJSJ)|:ru:|Словарь фронтенд-терминов.|
-||||
+|[Руководство 'Изучаем D3.js'](https://metanit.com/web/d3js/)|:ru:|Руководство 'Изучаем D3.js' Введение, основные понятия и простые графики.|
+|[D3 Tutorials](http://serganbus.github.io/d3tutorials/)|:ru:|Перевод английского оригинала D3 Tutorials, написанного Скоттом Мюрреем|
 
 # Miscellaneous
 
