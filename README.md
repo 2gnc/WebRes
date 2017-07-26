@@ -1,3 +1,33 @@
+<table>
+	<tr>
+		<td><h2>Как улучшить список?</h2></td>
+		<td><h2>How to improuve this list?</h2></td>
+	</tr>
+	<tr>
+		<td>
+			<ol>
+				<li>Создайте свой форк репозитория и склонируйте его на свой диск.</li>
+				<li>Исправьте/дополните файл у себя.</li>
+				<li>Сделайте commit и push вашей копии в форк на GitHub.</li>
+				<li>Пришлите Pull-запрос, чтобы я смогла добавить ваши изменения.</li>
+				<li>Если Вы обнаружили битую ссылку, пожалуйста, создайте тикет.</li>
+			</ol>
+		</td>
+		<td>
+			<ol>
+				<li>Fork this repository and clone it.</li>
+				<li>Make a fix or addition in your copy.</li>
+				<li>Commit and push your changes.</li>
+				<li>Make a pull request.</li>
+				<li>If you found a broken link, please create a ticket.</li>
+			</ol>
+		</td>
+	</tr>
+</table>
+
+
+
+
 ## Как улучшить список?
 Если Вы хотите прислать дополнение или исправление:
 1. Создайте свой форк репозитория и склонируйте его на свой диск.
