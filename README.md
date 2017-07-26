@@ -128,6 +128,7 @@ If you want to make an addition or correction:
 |[Упрощённый JavaScript-жаргон](https://github.com/andrew--r/SJSJ)|:ru:|Словарь фронтенд-терминов.|
 |[Руководство 'Изучаем D3.js'](https://metanit.com/web/d3js/)|:ru:|Руководство 'Изучаем D3.js' Введение, основные понятия и простые графики.|
 |[D3 Tutorials](http://serganbus.github.io/d3tutorials/)|:ru:|Перевод английского оригинала D3 Tutorials, написанного Скоттом Мюрреем|
+|[Getting Started with D3](http://www.gtz.com/docs/_books/Getting_Started_with_D3.pdf)|:uk:|PDF-book from ORelly by Mike Dewar.|
 
 # Miscellaneous
 
