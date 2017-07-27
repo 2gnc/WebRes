@@ -126,6 +126,8 @@
 |[HTML5.1](https://www.w3.org/TR/html51/)|:uk:|W3C Recommendation, 1 November 2016|
 |[Getting started with Pug](https://pugjs.org/api/getting-started.html)|:uk:|Pug official documentation.|
 |[Типовая структура страницы в HTML5 по стандарту](http://css-live.ru/articles/legkaya-organizaciya-kontenta-s-html5.html)|:ru:|Краткая шпаргалка на css-live.ru|
+|[Туториал по Jade для начинающих](https://habrahabr.ru/post/278109/)|:ru:|Обзорная статья по основным возможностям PUG/JADE.|
+|[Jade/Pug или HTML на диете](https://geekbrains.ru/go/EMt9iY)|:ru: :arrow_forward:|Вебинар по основам PUG.|
 
 
 # JavaScript
