@@ -118,6 +118,7 @@
 |[CSS3 Maker](http://www.css3maker.com/index.html)|:uk:|Complete tools for generating CSS3 effects.|
 |[Westciv](http://westciv.com/tools/)|:uk:|Box shadow, CSS Transforms, CSS Text Stroke and Gradients CSS3 sandbox.|
 |[CSS-таблицы](https://html5book.ru/css3-tables)|:ru:|Руководство по CSS - оформлению таблиц с примерами.|
+|[Tridiv](http://tridiv.com/)|:uk:|Online editor for creating 3D models in CSS3.|
 
 
 # HTML
