@@ -158,7 +158,7 @@
 |[Руководство по веб-шрифтам](http://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)|:ru:|Исчерпывающее руководство по стратегиям загрузки веб-шрифтов.|
 |[Руководство по цветам в веб](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)|:ru:|Механизмы работы цыета в браузерах.|
 |[WebReference.ru](https://webref.ru/)|:ru:|Справочник CSS свойств и html тегов.|
-||||
+|[Подкаст Веб стандарты (git)](https://github.com/web-standards-ru/podcast)|:ru:|Репозиторий подкастов с ссылками и иногда с расшифровками эфиров.|
 
 
 # Coding sandboxes
