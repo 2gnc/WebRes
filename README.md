@@ -40,6 +40,7 @@
 # Graphic & Design services
 | Resource | Lang. | Description |
 -----------|-------|--------------
+|[Real Favicon Generator](http://realfavicongenerator.net/)|:uk:|Online favicon generator.|
 |[Photopea](https://www.photopea.com/)|:uk:|Online editor of PSD, XCF and Sketch formats.|
 |[Fotor](https://h5.fotor.com)|:ru:|Простой графический редактор.|
 |[Clara.io](https://clara.io/scenes)|:uk:|Free 3D online redactor.|
