@@ -133,6 +133,7 @@
 |[Туториал по Jade для начинающих](https://habrahabr.ru/post/278109/)|:ru:|Обзорная статья по основным возможностям PUG/JADE.|
 |[Jade/Pug или HTML на диете](https://geekbrains.ru/go/EMt9iY)|:ru: :arrow_forward:|Вебинар по основам PUG.|
 |[Favicon сегодня: форматы, поддержка, автоматизация ](https://habrahabr.ru/post/330584/)|:ru:|Обзорная статья на Хабре (2017 г.)|
+|[Webcode Tools](https://webcode.tools/json-ld-generator)|:uk:|Microformats JSON generator.|
 
 
 # JavaScript
