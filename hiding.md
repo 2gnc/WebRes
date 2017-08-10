@@ -7,3 +7,15 @@
 |HTML5: hidden attribute|То же самое, что display: none|Не читается|IE11+|
 |Aria-hidden = “true”|Контент отображается в браузере, но не передается пользователю.|Не читается|IE11+|
 |CSS: .visuallyHidden class|Скрывает элемент и изымает его из потока.|Читается|Все браузеры|
+
+```css
+.visually-hidden { 
+    position: absolute 
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding:0 
+    border:0
+    height: 1px
+    width: 1px
+    overflow: hidden;
+}
