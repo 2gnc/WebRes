@@ -121,6 +121,7 @@
 |[Grabient](https://www.grabient.com/)|:uk:|Beautiful online CSS3 gradient generator.|
 |[CSS-таблицы](https://html5book.ru/css3-tables)|:ru:|Руководство по CSS - оформлению таблиц с примерами.|
 |[Tridiv](http://tridiv.com/)|:uk:|Online editor for creating 3D models in CSS3.|
+|[Способы скрыть содержимое](https://github.com/2gnc/WebRes/blob/master/hiding.md)|:ru:|Сравнительная таблица|
 
 
 # HTML
