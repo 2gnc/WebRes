@@ -88,6 +88,7 @@
 |[Google Fonts](https://fonts.google.com/)|:uk:|Google fonts online tools.|
 |[Font Awesome](http://fontawesome.io/icons/)|:uk:|Font awesome home page.|
 |[Icofont](http://icofont.com/)|:uk:|Many icons.|
+|[Feather Icons](https://feathericons.com/)|:uk:|Minimalistic iconic font.|
 |[Проверка оптимизации сайтов от Google](https://search.google.com/test/mobile-friendly?hl=ru)|:ru:|Онлайн сервис проверки сайтов на оптимизацию для мобильных устройств.|
 |[CSSMatic](http://www.cssmatic.com/)|:ru:|Online tools for generating CSS code of grabients, box shadows, border radius and noise textures.|
 |[Caniuse](http://caniuse.com/)|:uk:|Browser support tables for HTML5, CSS3, JS etc.|
