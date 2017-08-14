@@ -122,6 +122,7 @@
 |[CSS-таблицы](https://html5book.ru/css3-tables)|:ru:|Руководство по CSS - оформлению таблиц с примерами.|
 |[Tridiv](http://tridiv.com/)|:uk:|Online editor for creating 3D models in CSS3.|
 |[Способы скрыть содержимое](https://github.com/2gnc/WebRes/blob/master/hiding.md)|:ru:|Сравнительная таблица|
+|[mini.css](http://minicss.org/)|:uk:|Light and easy to use css framework.|
 
 
 # HTML
