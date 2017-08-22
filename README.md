@@ -124,6 +124,7 @@
 |[Tridiv](http://tridiv.com/)|:uk:|Online editor for creating 3D models in CSS3.|
 |[Способы скрыть содержимое](https://github.com/2gnc/WebRes/blob/master/hiding.md)|:ru:|Сравнительная таблица|
 |[mini.css](http://minicss.org/)|:uk:|Light and easy to use css framework.|
+|[Hover.css](http://ianlunn.github.io/Hover/)|:uk:|Powerful library of CSS3 hover effects.|
 
 
 # HTML
