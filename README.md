@@ -125,6 +125,7 @@
 |[Способы скрыть содержимое](https://github.com/2gnc/WebRes/blob/master/hiding.md)|:ru:|Сравнительная таблица|
 |[mini.css](http://minicss.org/)|:uk:|Light and easy to use css framework.|
 |[Hover.css](http://ianlunn.github.io/Hover/)|:uk:|Powerful library of CSS3 hover effects.|
+|[Minimamente](https://minimamente.com/example/magic_animations/)|:uk:|CSS3 library of effects.|
 
 
 # HTML
