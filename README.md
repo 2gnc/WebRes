@@ -57,6 +57,7 @@
 |[easelly](https://www.easel.ly/)|:uk:|Free service for creating infographics.|
 |[Joxi](http://joxi.ru/)|:ru:|Сервис для создания и обмена скриншотами.|
 |[Gravit Desigener](https://www.designer.io/)|:uk:|A full featured free vector design app.|
+|[Up Labs](https://www.uplabs.com/)|:uk:|Free and commercial graphic resources.|
 
 # Design resources
 | Resource | Lang. | Description |
