@@ -29,7 +29,7 @@
 * [Graphic & Design services](https://github.com/2gnc/WebRes/blob/master/README.md#graphic--design-services)
 * [Design resources](https://github.com/2gnc/WebRes/blob/master/README.md#design-resources)
 * [Other services](https://github.com/2gnc/WebRes/blob/master/README.md#other-services)
-* [SVG]()
+* [SVG](https://github.com/2gnc/WebRes/blob/master/README.md#svg)
 * [CSS](https://github.com/2gnc/WebRes/blob/master/README.md#css)
 * [HTML](https://github.com/2gnc/WebRes/blob/master/README.md#html)
 * [JavaScript](https://github.com/2gnc/WebRes/blob/master/README.md#javascript)
