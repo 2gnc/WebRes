@@ -85,6 +85,7 @@
 |----------|-------|-------------|
 |[Hero Patterns](http://www.heropatterns.com/)|:uk:|SVG patterns generator.|
 |[SVG-паттерны](http://css.yoksel.ru/svg-patterns/)|:ru:|Большая статья о том, что такое svg-паттерны и как они работают.|
+|[Trianglify generator](https://qrohlf.com/trianglify-generator/)|:uk:|Beautigul SVG-backgrouns with gradients and triangle shapes.|
 
 
 # Other services
