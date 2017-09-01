@@ -57,7 +57,6 @@
 |[easelly](https://www.easel.ly/)|:uk:|Free service for creating infographics.|
 |[Joxi](http://joxi.ru/)|:ru:|Сервис для создания и обмена скриншотами.|
 |[Gravit Desigener](https://www.designer.io/)|:uk:|A full featured free vector design app.|
-|[Up Labs](https://www.uplabs.com/)|:uk:|Free and commercial graphic resources.|
 
 # Design resources
 | Resource | Lang. | Description |
@@ -77,6 +76,7 @@
 |[Создание дизайна Landing Page](https://habrahabr.ru/post/257211/)|:ru:|Руководство по создания дизайна для Landing page, статья на Habrahabr (2015 г.)|
 |[8 правил подбора цветовой палитры, которые должны знать все](https://habrahabr.ru/company/everydaytools/blog/332956/)|:ru:|Обзорная статья на Habrahabr о правилах подбора цветовой палитры (2017 г.)|
 |[UISpace](https://uispace.net/)|:uk:|Thousand of great freebies: graphics, ui mockups and illustrations.|
+|[Up Labs](https://www.uplabs.com/)|:uk:|Free and commercial graphic resources.|
 
 
 # Other services
