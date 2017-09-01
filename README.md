@@ -29,6 +29,7 @@
 * [Graphic & Design services](https://github.com/2gnc/WebRes/blob/master/README.md#graphic--design-services)
 * [Design resources](https://github.com/2gnc/WebRes/blob/master/README.md#design-resources)
 * [Other services](https://github.com/2gnc/WebRes/blob/master/README.md#other-services)
+* [SVG]()
 * [CSS](https://github.com/2gnc/WebRes/blob/master/README.md#css)
 * [HTML](https://github.com/2gnc/WebRes/blob/master/README.md#html)
 * [JavaScript](https://github.com/2gnc/WebRes/blob/master/README.md#javascript)
@@ -78,6 +79,11 @@
 |[UISpace](https://uispace.net/)|:uk:|Thousand of great freebies: graphics, ui mockups and illustrations.|
 |[Up Labs](https://www.uplabs.com/)|:uk:|Free and commercial graphic resources.|
 |[Symu](https://symu.co/freebies)|:uk:|Free psd templates.|
+
+# SVG
+| Resource | Lang. | Description |
+|----------|-------|-------------|
+|[Hero Patterns](http://www.heropatterns.com/)|:uk:|SVG patterns generator.|
 
 
 # Other services
