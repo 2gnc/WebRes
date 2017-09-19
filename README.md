@@ -79,6 +79,7 @@
 |[UISpace](https://uispace.net/)|:uk:|Thousand of great freebies: graphics, ui mockups and illustrations.|
 |[Up Labs](https://www.uplabs.com/)|:uk:|Free and commercial graphic resources.|
 |[Symu](https://symu.co/freebies)|:uk:|Free psd templates.|
+|[Coverr](http://coverr.co/)|:uk:|Free videos for websites. |
 
 # SVG
 | Resource | Lang. | Description |
