@@ -112,6 +112,7 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
+|[Modernizr: практическое применение](https://habrahabr.ru/post/144352/)|:ru:|Описание библиотеки Modernizr|
 |[Sasha Tran](https://www.youtube.com/channel/UCCATAa8MWoBuH-sR_Jlx29A/videos)|:uk: :arrow_forward:|CSS drawind screencast.|
 |[Daily CSS Images](http://dailycssimages.com/)|:uk:|Free 50-day email challenge for mastering pure CSS images.|
 |[100 Days CSS](https://100dayscss.com/)|:uk:|Free 100-day email challenge for mastering pure CSS images.|
