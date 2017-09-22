@@ -186,7 +186,7 @@
 |[Руководство по цветам в веб](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)|:ru:|Механизмы работы цыета в браузерах.|
 |[WebReference.ru](https://webref.ru/)|:ru:|Справочник CSS свойств и html тегов.|
 |[Подкаст Веб стандарты (git)](https://github.com/web-standards-ru/podcast)|:ru:|Репозиторий подкастов с ссылками и иногда с расшифровками эфиров.|
-
+|[Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)|:ru:|Репозиторий с мини-голоссарием.|
 
 # Coding sandboxes
 
@@ -197,8 +197,6 @@
 |[Code Abbey](http://www.codeabbey.com/)|:uk:|Code challenges in different languages.|
 |[Solo learn](https://www.sololearn.com/)|:uk:|Community of mobile code learners with courses, lessons, quizzes. C++, Java, JavaScript, Pyton, PHP, C#, Swift, Ruby, jQuery, HTML, SQL, CSS.|
 ||||
-
-
 
 # Texts, advertising, marketing, project management
 
