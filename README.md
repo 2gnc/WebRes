@@ -142,7 +142,7 @@
 |[Hover.css](http://ianlunn.github.io/Hover/)|:uk:|Powerful library of CSS3 hover effects.|
 |[Minimamente](https://minimamente.com/example/magic_animations/)|:uk:|CSS3 library of effects.|
 |[Хорошо ли Вы знаете линейные градиенты?](https://habrahabr.ru/company/paysto/blog/256479/)|:ru:|Подробная статья про принцип работы линейных градиентов.|
-
+|[Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)|:ru:|Фигуры без использования clip-path|
 
 # HTML
 | Resource | Lang. | Description |
