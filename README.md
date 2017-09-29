@@ -143,6 +143,7 @@
 |[Minimamente](https://minimamente.com/example/magic_animations/)|:uk:|CSS3 library of effects.|
 |[Хорошо ли Вы знаете линейные градиенты?](https://habrahabr.ru/company/paysto/blog/256479/)|:ru:|Подробная статья про принцип работы линейных градиентов.|
 |[Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)|:ru:|Фигуры без использования clip-path|
+|[HTML color codes](http://htmlcolorcodes.com/color-names/)|:uk:|Web colors names.|
 
 # HTML
 | Resource | Lang. | Description |
