@@ -189,6 +189,7 @@
 |[WebReference.ru](https://webref.ru/)|:ru:|Справочник CSS свойств и html тегов.|
 |[Подкаст Веб стандарты (git)](https://github.com/web-standards-ru/podcast)|:ru:|Репозиторий подкастов с ссылками и иногда с расшифровками эфиров.|
 |[Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)|:ru:|Репозиторий с мини-голоссарием.|
+|[Essential Image optimization](https://images.guide/)|:uk:|An eBook by Addy Osmani.|
 
 # Coding sandboxes
 
