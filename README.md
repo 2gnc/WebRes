@@ -145,6 +145,7 @@
 |[Геометрические фигуры на CSS](https://habrahabr.ru/post/126207/)|:ru:|Фигуры без использования clip-path|
 |[HTML color codes](http://htmlcolorcodes.com/color-names/)|:uk:|Web colors names.|
 |[Как создать адаптивную сетку](https://medium.com/web-standards/responsive-grid-system-89d07e48a564)|:ru:|Руководство по созданию адаптивной сетки для новичков.|
+|[Uigradients.com](https://uigradients.com/#NoontoDusk)|:uk:|Collection of beatiful css-gradients.|
 
 # HTML
 | Resource | Lang. | Description |
