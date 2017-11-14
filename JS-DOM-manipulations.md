@@ -35,7 +35,16 @@ $(window).ready();
 
 ## Поиск и выбор элементов DOM
 
-** **
+### el.querySelectorAll(selectors)
+
+Возвращает объект ```NodeList```, содержащий потомков ```el```, подходящих под выборку ```selectors```. Псевдо-селекторы не выбираются (при этом WebKit возвращает <html>, другие движки ничего не возвращают).
+
+``` javascript
+
+let x = document.querySelectorAll( '.some-class' );
+
+```
+
 
 
 ## Создание DOM узлов 
