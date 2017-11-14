@@ -6,7 +6,11 @@
 
 **window.onload**
 
-
+``` javascript
+window.onload = function () {
+	
+};
+```
 
 ## Выборки
 
