@@ -25,7 +25,33 @@ window.addEventListener( 'DOMContentLoaded', function( event ){
 });
 ```
 
+**3. jQuery**
+
+``` javascripr
+$(document).ready();
+$(window).ready();
+```
 
 
-## Выборки
+## Поиск и выбор элементов DOM
 
+** **
+
+
+## Создание DOM узлов 
+
+**documentFragment**
+
+``` javascript
+let fragment = document.createDocumentFragment();
+for ( let i = 0; i < 5; i++  ) {
+	let section = document.crateElement( 'section' );
+	section.classList.add( 'some-class' );
+	fragment.appendChild( section );
+}
+```
+
+## Добавление узлов в DOM
+
+
+## Удаление узлов из DOM
