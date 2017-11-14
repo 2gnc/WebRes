@@ -17,11 +17,15 @@ window.onload = function () {
 
 **2. Событие DOMContentLoaded**
 
+Приоритетный способ. Событие возникает после того как DOM для страницы будет собран, но не ждет, когда другие ресурсы будут загружены.
+
 ``` javascript
-window.addEventListener( 'DOMContentLoaded', function(){
+window.addEventListener( 'DOMContentLoaded', function( event ){
 // commands
-	});
+});
 ```
+
+
 
 ## Выборки
 
