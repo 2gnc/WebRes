@@ -40,7 +40,7 @@ $(window).ready();
 
 ## Создание DOM узлов 
 
-**documentFragment**
+### documentFragment
 
 ```DocumentFragment``` - обертка для произвольного HTML кода. Представляет собой объект ```DocumentFragment``` и ведет себя как узел DOM. После вставки в DOM обертка исчезает, остаются только DOM - элементы, которые были в ней. 
 Свойства documentFragment наследуются от объекта Node.
