@@ -35,7 +35,7 @@ $(window).ready();
 
 ## Поиск и выбор элементов DOM
 
-### el.querySelector(selectors)
+### document.querySelector(selectors)
 
 Возвращает первый элемент внутри документа (или элемента, внутри которого производится посик), используется предупорядоченный обход узлов в глубину до первого найденного узла, который совпадает с группой селекторов, установленной в параметрах.
 
@@ -43,7 +43,7 @@ $(window).ready();
 let x = document.querySelector(selectors);
 ```
 
-### el.querySelectorAll(selectors)
+### document.querySelectorAll(selectors)
 
 Возвращает объект ```NodeList```, содержащий потомков ```el```, подходящих под выборку ```selectors```. Псевдо-селекторы не выбираются (при этом WebKit возвращает <html>, другие движки ничего не возвращают).
 
@@ -53,7 +53,38 @@ let x = document.querySelectorAll( '.some-class' );
 
 ```
 
+### document.getElementById()
 
+Возвщает ссылку на найденный по его ID элемент. Параметр id чувствителен к регистру.
+
+```javascript
+let x = document.getElementById( 'someId' );
+
+```
+
+### document.getElementsByClassName()
+
+Возвращает псевдо-массив ( ```HTMLCollection``` ) элементов, подходящих условию.
+
+```javascript
+let elements = document.getElementsByClassName( 'some-class' ); // или
+let elements = rootElement.getElementsByClassName( 'some class' );
+```
+
+**Примеры:**
+
+Получить все элементы класса 'test', являющиеся дочерними для элемента с ID 'main':
+```javascript
+let elements = document.getElementById('main').getElementsByClassName('test');
+```
+
+### document.getElementsByTagName()
+
+Возвращает ```HTMLCollection``` элемнетов с указанным именем тега.
+
+```javascript
+let elements = document.getElementsByTagName(name);
+```
 
 ## Создание DOM узлов 
 
