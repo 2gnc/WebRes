@@ -96,6 +96,43 @@ let elements = document.getElementsByTagName(name);
 let el = document.createElement( 'div' );
 ```
 
+### element.setAttribute(name, value)
+
+Устанавлиавает для ```element``` атрибут с указанным именем ```name``` и значением ```value``` .
+
+```javascript
+let el = document.querySelector( 'button' ); 
+
+el.setAttribute( 'name', 'helloButton' );
+el.setAttribute( 'disabled', '' );
+```
+
+### element.getAttribute();
+
+Возвращает значение указанного атрибута элемента. Если элемент не содержит данный атрибут, вернется null или пустая строка.
+
+```javascript
+let div1 = document.getElementById( 'div1' ),
+    align = div1.getAttribute( 'align' );
+
+console.log(align); // отобразит значение атрибута align элемента с id = 'div1'
+```
+
+### element.hasAttribute()
+
+Проверяет, есть ли у элемента атрибут с указанным ```name``` , возвращает ```true``` или ```false``` 
+
+### element.attributes
+Возвращает ```NamedNodeMap```, содержащий псевдо-массив с атрибутами указанного узла. 
+
+### element.removeAttribute()
+
+Удаляет указанный атрибут у элемента. Попытка удаления аттрибута, которого нет на элементе не вызывает ошибки.
+
+``` javascript
+document.getElementById( 'div1' ).removeAttribute( 'align' ); 
+```
+
 ### document.createTextNode()
 
 Создает текстовый узел.
