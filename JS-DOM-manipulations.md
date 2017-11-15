@@ -121,6 +121,10 @@ for ( let i = 0; i < 5; i++  ) {
 }
 ```
 
+### element.cloneNode( true/false )
+
+Клонирует указанный ```element```. Если в параметрах ```true```, то узел клонируется со всем содержимым, если ```false``` - то только сам узел.
+
 ## Добавление узлов в DOM
 
 ### element.insertAdjacentHTML(key, code)
@@ -136,13 +140,13 @@ key может принимать 4 значения:
 Визуально: 
 
 ``` HTML
-<!-- beforebegin -->
+<!-- beforeBegin -->
 <p>
-<!-- afterbegin -->
+<!-- afterBegin -->
 foo
-<!-- beforeend -->
+<!-- beforeEnd -->
 </p>
-<!-- afterend -->
+<!-- afterEnd -->
 ```
 
 ```javascript
@@ -153,6 +157,8 @@ el.insertAdjacentHTML('beforeBegin', code);
 ```
 
 ### element.innerHTML()
+
+
 
 
 ## Удаление узлов из DOM
