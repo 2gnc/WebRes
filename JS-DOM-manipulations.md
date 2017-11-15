@@ -121,9 +121,15 @@ for ( let i = 0; i < 5; i++  ) {
 }
 ```
 
-### element.cloneNode( true/false )
+### node.cloneNode( true/false )
 
-Клонирует указанный ```element```. Если в параметрах ```true```, то узел клонируется со всем содержимым, если ```false``` - то только сам узел.
+Клонирует указанный ```node```. Если в параметрах ```true```, то узел клонируется со всем содержимым, если ```false``` - то только сам узел. По умолчанию - ```true```.
+
+```javascript
+let el = document.getElementById( 'some' ),
+	el2 = el.cloneNode( true );
+```
+
 
 ## Добавление узлов в DOM
 
