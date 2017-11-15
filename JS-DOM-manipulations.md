@@ -173,22 +173,32 @@ element.innerHTML = content;  //записали содержимое content в
 element.innerHTMl = ''; //удалили содержимое element
 ```
 
-### element.appendChild( child )
+### Node.appendChild()
 
 Добавляет дочерний элемент ```child``` родительскому элементу ```element```. При этом ```child``` становится последним из всех потомков ```element``` . Возвращает ссылку на добавленный элемент.
 Если элемент уже существует, он удаляется из текущего родителя и вставляется заново.
 Если ```child``` ссылается на уже существующий элемент в документе , тогда ```appendChild``` перемещает элемент с его текущей позиции на новую. Если элемент нужно не перенести, а скопировать, то используется  ```Node.cloneNode``` .
 
 ```javascript
-let child = element.appendChild( child );
+let child = element.appendChild();
 
 let p = document.createElement( 'p' );
 document.body.appendChild( p );
 ```
 
+### Node.insertBefore() 
+
+Добавляет элемент в список дочерних элементов родителя перед указанным элементом. Возвращает помещенный элемент. Если родитель пустой или второй аргумент не указант, то ```insertBefore()``` сработает как ```appendChild()``` . 
+
+```javacript
+
+let insertedElement = parentElement.insertBefore(newElement, referenceElement);
+
+```
 
 ## Удаление узлов из DOM
 
+### 
 
-## Управление стилями в DOM
+
 
