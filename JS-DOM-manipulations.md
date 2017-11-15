@@ -86,9 +86,25 @@ let elements = document.getElementById('main').getElementsByClassName('test');
 let elements = document.getElementsByTagName(name);
 ```
 
-## Создание DOM узлов 
+## Создание DOM узлов
 
-### documentFragment
+### document.createElement()
+
+Создает объект ```node``` - элемент DOM с заданным именем.
+
+``` javascript
+let el = document.createElement( 'div' );
+```
+
+### document.createTextNode()
+
+Создает текстовый узел.
+
+```javascript
+let text = document.createTextNode( 'some text' );
+```
+
+### document.createDocumentFragment()
 
 ```DocumentFragment``` - обертка для произвольного HTML кода. Представляет собой объект ```DocumentFragment``` и ведет себя как узел DOM. После вставки в DOM обертка исчезает, остаются только DOM - элементы, которые были в ней. 
 Свойства documentFragment наследуются от объекта Node.
@@ -104,6 +120,8 @@ for ( let i = 0; i < 5; i++  ) {
 	fragment.appendChild( section );
 }
 ```
+
+## Управление стилями в DOM
 
 ## Добавление узлов в DOM
 
