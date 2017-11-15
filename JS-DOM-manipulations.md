@@ -123,7 +123,7 @@ for ( let i = 0; i < 5; i++  ) {
 
 ### node.cloneNode( true/false )
 
-Клонирует указанный ```node```. Если в параметрах ```true```, то узел клонируется со всем содержимым, если ```false``` - то только сам узел. По умолчанию - ```true```.
+Клонирует указанный ```node```. Если в параметрах ```true```, то узел клонируется со всем содержимым, если ```false``` - то только сам узел.
 
 ```javascript
 let el = document.getElementById( 'some' ),
@@ -162,10 +162,20 @@ el.insertAdjacentHTML('beforeBegin', code);
 
 ```
 
-### element.innerHTML()
+### element.innerHTML(), element.innerHTML
 
+Устанавливает или получает разметку дочерних элементов. В качестве параметра принимает строку.
+Нежелательно использовать для вставки текста на страницу, вместо этого использовать ```node.textContent```.
 
+``` javascript
+const content = element.innerHTML;  //сохранили содержимое element в константу content
+element.innerHTML = content;  //записали содержимое content в узел element, предыдущее содержимое удаляется
+element.innerHTMl = ''; //удалили содержимое element
+```
 
+### element.appendChild(someEl)
+
+Добавляет дочерний элемент ```someEl``` родительскому элементу ```element```. При этом ```someEl``` становится последним из всех потомков ```element``` .
 
 ## Удаление узлов из DOM
 
