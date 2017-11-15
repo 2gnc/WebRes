@@ -127,7 +127,7 @@ for ( let i = 0; i < 5; i++  ) {
 
 ```javascript
 let el = document.getElementById( 'some' ),
-	el2 = el.cloneNode( true );
+    el2 = el.cloneNode( true );
 ```
 
 
