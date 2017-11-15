@@ -235,7 +235,30 @@ let insertedElement = parentElement.insertBefore(newElement, referenceElement);
 
 ## Удаление узлов из DOM
 
-### 
+### node.removeChild
 
+Удаляет дочерний элемент из DOM. Возвращает удаленный элемент.
+
+```javascript
+// если родитель известен
+let parent = document.getElementById( 'top' ),
+    toDelete = document.getElementById( 'some' ),
+    throwawayNode = parent.removeChild( toDelete );
+
+// если родитель неизвестен
+let node = document.getElementById( 'toDelete' );
+if ( node.parentNode ) {
+	node.parentNode.removeChild( node );
+};
+
+// удаление всех потомков
+let element = document.getElementById( 'top' );
+while ( element.firstChild ) {
+	element.removeChild(element.firstChild);
+
+// альтернативный вариант удаления 
+element.innerHTMl = '';
+};
+```
 
 
