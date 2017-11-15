@@ -135,7 +135,7 @@ key может принимать 4 значения:
 
 ```javascript
 let code = '<div class = 'some-class'></div>',
-		el = document.getElementById( 'someid' );
+el = document.getElementById( 'someid' );
 el.insertAdjacentHTML('beforeBegin', code);
 
 ```
