@@ -125,10 +125,20 @@ for ( let i = 0; i < 5; i++  ) {
 
 ### element.insertAdjacentHTML(key, code)
 
-key может принимать 4 значения: 
-* ааа
-* ааа
+Разбирает указанный ```code``` как HTML или XML и вставляет полученные узлы в DOM дерево в указанную в ```key``` позицию. Не переписывает имеющиеся элементы, что предовращает дополнительную сериализацию и поэтому работает быстрее, чем ```innerHTML```.
 
+key может принимать 4 значения: 
+* beforeBegin - вставка до element
+* afterEnd - вставка после element
+* afterBegin - вставка внутрь element (в самое начало)
+* beforeEnd - вставка внутрь element (в самый конец)
+
+```javascript
+let code = '<div class = 'some-class'></div>',
+		el = document.getElementById( 'someid' );
+el.insertAdjacentHTML('beforeBegin', code);
+
+```
 
 ## Удаление узлов из DOM
 
