@@ -133,12 +133,27 @@ key может принимать 4 значения:
 * afterBegin - вставка внутрь element (в самое начало)
 * beforeEnd - вставка внутрь element (в самый конец)
 
+Визуально: 
+
+``` HTML
+<!-- beforebegin -->
+<p>
+<!-- afterbegin -->
+foo
+<!-- beforeend -->
+</p>
+<!-- afterend -->
+```
+
 ```javascript
 let code = '<div class = 'some-class'></div>',
-	el = document.getElementById( 'someid' );
+el = document.getElementById( 'someid' );
 el.insertAdjacentHTML('beforeBegin', code);
 
 ```
+
+### element.innerHTML()
+
 
 ## Удаление узлов из DOM
 
