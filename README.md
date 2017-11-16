@@ -174,6 +174,7 @@
 |[Getting Started with D3](http://www.gtz.com/docs/_books/Getting_Started_with_D3.pdf)|:uk:|PDF-book from ORelly by Mike Dewar.|
 |[D3.js – визуализируй свои идеи!](https://geekbrains.ru/events/50)|:ru: :arrow_forward:|Вебинар на Geek brains, слегка затянутый, но достаточно подробный. Для новичков.|
 |[D3.js – создаем карту с визуализацией!](https://geekbrains.ru/events/60)|:ru: :arrow_forward:|Вебинар по созданию карты.|
+|[Манипуляции с DOM (шпаргалка)](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md)|:ru:|Основные свойства и методы для создания узлов и манипуляций с DOM-деревом.|
 
 # Miscellaneous
 
