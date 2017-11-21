@@ -1,4 +1,4 @@
-# Взаимодействие с DOM
+# Взаимодействие с DOM (черновик)
 
 ## Загрузка DOM
 
@@ -133,6 +133,8 @@ console.log(align); // отобразит значение атрибута alig
 document.getElementById( 'div1' ).removeAttribute( 'align' ); 
 ```
 
+способ перебрать все атрибуты (перевором), свойство attributes
+
 ### document.createTextNode()
 
 Создает текстовый узел.
@@ -140,7 +142,7 @@ document.getElementById( 'div1' ).removeAttribute( 'align' );
 ```javascript
 let text = document.createTextNode( 'some text' );
 ```
-
+ дописать после урока инфу
 ### document.createDocumentFragment()
 
 ```DocumentFragment``` - обертка для произвольного HTML кода. Представляет собой объект ```DocumentFragment``` и ведет себя как узел DOM. После вставки в DOM обертка исчезает, остаются только DOM - элементы, которые были в ней. 
@@ -202,7 +204,8 @@ el.insertAdjacentHTML('beforeBegin', code);
 ### element.innerHTML(), element.innerHTML
 
 Устанавливает или получает разметку дочерних элементов. В качестве параметра принимает строку.
-Нежелательно использовать для вставки текста на страницу, вместо этого использовать ```node.textContent```.
+Нежелательно использовать для вставки текста на страницу, вместо этого использовать ```node.textContent```. 
+Если принимает невалидный код, браузер пытается исправить его, запустив анализатор. Из-за этого может работать медленнее.
 
 ``` javascript
 const content = element.innerHTML;  //сохранили содержимое element в константу content
