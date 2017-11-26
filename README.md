@@ -180,6 +180,7 @@
 
 | Resource | Lang. | Description |
 -----------|-------|--------------
+|[StatCounter GlobalStats](http://gs.statcounter.com)|:uk:|free, online visitor stats tool|
 |[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|:gb:|List of all Emoji codes|
 |[Geekbrains вебинары](https://geekbrains.ru/events)|:ru: :arrow_forward:|Вебинары на разные ИТ-темы, есть интересные.|
 |[Лекции первой ШРИ Яндекса](https://habrahabr.ru/company/yandex/blog/168259/)|:ru: :arrow_forward:|Видео лекций всего курса первой Школы разработки интерфейсов Яндекса (2013г.)|
