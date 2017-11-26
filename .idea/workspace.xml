@@ -21,11 +21,11 @@
         <entry file="file://$PROJECT_DIR$/JS-DOM-manipulations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="572">
-                <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+              <first_editor relative-caret-position="806">
+                <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
                 <folding>
-                  <marker date="1511704713000" expanded="true" signature="8133:8174" ph="{...}" />
-                  <marker date="1511704713000" expanded="true" signature="8280:8386" ph="{...}" />
+                  <marker date="1511705776000" expanded="true" signature="8457:8498" ph="{...}" />
+                  <marker date="1511705776000" expanded="true" signature="8604:8710" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -117,7 +117,7 @@
       <workItem from="1511195815512" duration="84000" />
       <workItem from="1511195957439" duration="86000" />
       <workItem from="1511196061913" duration="3555000" />
-      <workItem from="1511703584995" duration="1088000" />
+      <workItem from="1511703584995" duration="1926000" />
     </task>
     <task id="LOCAL-00001" summary="добавила разделы, которые надо расширить">
       <created>1511284617763</created>
@@ -130,7 +130,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4813000" />
+    <option name="totallyTimeSpent" value="5651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="129" y="34" width="2431" height="1381" extended-state="0" />
@@ -227,11 +227,11 @@
     <entry file="file://$PROJECT_DIR$/JS-DOM-manipulations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="572">
-            <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <first_editor relative-caret-position="806">
+            <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
             <folding>
-              <marker date="1511704713000" expanded="true" signature="8133:8174" ph="{...}" />
-              <marker date="1511704713000" expanded="true" signature="8280:8386" ph="{...}" />
+              <marker date="1511705776000" expanded="true" signature="8457:8498" ph="{...}" />
+              <marker date="1511705776000" expanded="true" signature="8604:8710" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
