@@ -22,6 +22,17 @@
 * [contains](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodecontains-othernode-)
 * [compareDocumentPosition](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#acomparedocumentposition-b-)
 
+[Создание узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Создание-dom-узлов)
+* [createElement](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreateelement)
+* [getAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementgetattribute)
+* [setAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementsetattributename-value)
+* [hasAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementhasattribute)
+* [attributes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementattributes)
+* [removeAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementremoveattribute)
+* [createTextNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatetextnode)
+* [createDocumentFragment](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatedocumentfragment)
+* [cloneNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeclonenode-truefalse-)
+
 []()
 
 
