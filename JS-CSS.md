@@ -10,7 +10,7 @@
 
 ## [Таблицы стилей](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet)
 
-[document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | []() | []()
+[document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | []()
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
@@ -116,13 +116,14 @@ el.style.setProperty( 'color', 'red' );
 console.log( el.style.cssText ); // color: red;
 ```
 
-## CSSStyleSheet
-
-Объект ```CSSStyleSheet``` представляет собой один файл css-стилей, подключенный к странице. Наследуется от ```StyleSheet```. Содержит в себе css-правила ```CSSRule``` (объекты).
-
-### document.styleSheets
+## document.styleSheets
 Свойство, доступное только для чтения, возвращает объект псевдо-массив ```StyleSheetList```, содержащий объекты ```CSSStyleSheet ```.
 ```javascript
 // на примере lenta.ru
 let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 1: CSSStyleSheet, 2: CSSStyleSheet, 3: CSSStyleSheet, 4: CSSStyleSheet, 5: CSSStyleSheet, 6: CSSStyleSheet, 7: CSSStyleSheet, length: 8}
 ```
+
+### CSSStyleSheet
+
+Объект ```CSSStyleSheet``` представляет собой один файл css-стилей, подключенный к странице. Наследуется от ```StyleSheet```. Содержит в себе css-правила ```CSSRule``` (объекты). Входит в состав ```document.styleSheets```
+
