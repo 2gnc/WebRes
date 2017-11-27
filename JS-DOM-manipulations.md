@@ -1,4 +1,4 @@
-[**Узлы: полезные свойства**](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
+[_Узлы: полезные свойства_](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
 
 [Типы узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
 
