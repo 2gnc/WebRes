@@ -10,6 +10,16 @@
 Коллекция из пар ключ-значение (строка), описывающие скомпилированные стили определенного элемента.
 
 #### CSSStyleDeclaration.cssText
+Возвращает строку с содержанием инлайнового стиля элемента (только инлайнового).
+```javascript
+// HTML
+<p id="test" style="color: red;">Some text.</p>
+// CSS
+#test {padding: 2em;}
+//JS
+let el = document.getElementById("test");
+el.style.cssText; // color: red
+```
 
 #### CSSStyleDeclaration.length
 
