@@ -72,11 +72,10 @@ test.style.getPropertyValue(padding); // 20px
 <div id="test" style="padding: 20px;">Lorem ipsum</div>
 ```
 ```javascript
-let el = document.getElementById( 'test' );
-for (let i =0; i <= el.style.length; i++) {
-	console.log( el.style.item( i ) );
-} // padding-top
-  // padding-right
-  // padding-bottom
-  // padding-left
+let el = document.getElementById( 'test' ),
+    prop = '';
+for (let i =0; i < el.style.length; i++) {
+	prop += el.style.item( i ) + '; '
+};
+console.log( prop ); // padding-top; padding-right; padding-bottom; padding-left;
 ```
