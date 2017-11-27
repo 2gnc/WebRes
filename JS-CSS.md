@@ -11,12 +11,13 @@
 
 #### CSSStyleDeclaration.cssText
 Возвращает строку с содержанием инлайнового стиля элемента (только инлайнового). Может менять инлайновые стили, перезаписывая их.
-```javascript
-// HTML
+```html
 <p id="test" style="color: red;">Some text.</p>
-// CSS
+```
+```css
 #test {padding: 2em;}
-//JS
+```
+```javascript
 let el = document.getElementById("test");
 el.style.cssText; // color: red
 el.style.cssText = 'margin-top: 50px;';
