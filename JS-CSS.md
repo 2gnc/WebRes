@@ -135,3 +135,6 @@ let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 
 
 #### CSSStyleSheet.insertRule(rule, index)
 Добавляет указанное правило, где rule - строка.
+
+#### CSSRule.cssText
+Строка, содержащая в себе одно правило из таблицы стилей. Например, ```body { background-color: darkblue; }```.
