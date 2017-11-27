@@ -48,7 +48,35 @@ test2.style.length; // 1
 #### el.style.parentRule
 Возвращает родительские стили.
 
-``javascript
+```javascript
 var declaration = document.styleSheets[0].rules[0].style;
 var rule = declaration.parentRule;
+```
+
+#### el.style.getPropertyValue(property)
+Возвращает строку с значением указанного стиля (из инлайновых стилей).
+```html
+<div id="test" style="padding: 20px;">Lorem ipsum</div>
+```
+```javascript
+let test = document.getElementById( 'test' );
+test.style.getPropertyValue(padding); // 20px
+```
+
+#### el.style.getPropertyPriority(property)
+Возвращает приоритет свойства (!important), если указано, или пустую строку.
+
+#### el.style.item(index)
+Возвращает имя свойства (по порядку, отсчет с 0).
+```html
+<div id="test" style="padding: 20px;">Lorem ipsum</div>
+```
+```javascript
+let el = document.getElementById( 'test' );
+for (let i =0; i <= el.style.length; i++) {
+	console.log( el.style.item( i ) );
+} // padding-top
+     padding-right
+     padding-bottom
+     padding-left
 ```
