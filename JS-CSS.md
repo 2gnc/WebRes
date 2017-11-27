@@ -99,3 +99,15 @@ console.log(el.style.cssText); // color: white; padding-top: 20px;
 el.style.removeProperty('color');
 console.log(el.style.cssText); // padding-top: 20px;
 ```
+
+#### el.style.setProperty(propertyName, value, priority);
+Устанавливает указанному свойству указанное значение и приоритет.
+```html
+<div id="test">Lorem ipsum</div>
+```
+```javascript
+let el = document.getElementById( 'test' );
+console.log( el.style.cssText ); // 
+el.style.setProperty( 'color', 'red' );
+console.log( el.style.cssText ); // color: red;
+```
