@@ -10,7 +10,7 @@
 
 ## [Таблицы стилей](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet)
 
-[document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | [CSSStyleSheet.cssRules](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetcssrules) | [CSSStyleSheet.deleteRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetdeleteruleindex) | [CSSStyleSheet.insertRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetinsertrulerule-index)
+[document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | [CSSStyleSheet.cssRules](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetcssrules) | [CSSStyleSheet.deleteRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetdeleteruleindex) | [CSSStyleSheet.insertRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetinsertrulerule-index) | [CSSRule.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssrulecsstext)
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
