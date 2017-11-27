@@ -76,7 +76,7 @@ let el = document.getElementById( 'test' );
 for (let i =0; i <= el.style.length; i++) {
 	console.log( el.style.item( i ) );
 } // padding-top
-     padding-right
-     padding-bottom
-     padding-left
+  // padding-right
+  // padding-bottom
+  // padding-left
 ```
