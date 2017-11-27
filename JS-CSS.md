@@ -15,7 +15,7 @@
 Возвращает коллекцию ```CSSStyleDeclaration```.
 
 ### CSSStyleDeclaration
-Коллекция из пар ключ-значение (строка), описывающие скомпилированные стили определенного элемента.
+Коллекция из пар ключ-значение (строка), описывающие все скомпилированные стили определенного элемента (в том числе унаследованные и по умолчанию).
 
 ### element.style
 Возвращает ```CSSStyleDeclaration```, который содержится в атрибуте ```style``` указанного элемента. С его помощью можно управлять инлайновыми стилями отдельного html-элемента.
@@ -86,4 +86,16 @@ for (let i =0; i < el.style.length; i++) {
 	prop += el.style.item( i ) + '; '
 };
 console.log( prop ); // padding-top; padding-right; padding-bottom; padding-left;
+```
+
+#### el.style.removeProperty(property);
+Удаляет указанное свойство.
+```html
+<div id="test" style="color: white; padding-top: 20px;">Lorem ipsum</div>
+```
+```javascript
+let el = document.getElementById( 'test' );
+console.log(el.style.cssText); // color: white; padding-top: 20px;
+el.style.removeProperty('color');
+console.log(el.style.cssText); // padding-top: 20px;
 ```
