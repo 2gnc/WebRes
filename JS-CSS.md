@@ -9,7 +9,13 @@
 ### CSSStyleDeclaration
 Коллекция из пар ключ-значение (строка), описывающие скомпилированные стили определенного элемента.
 
-#### CSSStyleDeclaration.cssText
+### element.style
+Возвращает ```CSSStyleDeclaration```, который содержится в атрибуте ```style``` указанного элемента. С его помощью можно управлять инлайновыми стилями отдельного html-элемента.
+```javascript
+let el = document.getElementById("test");
+el.style.marginTop = "1rem"; // <div id="test" style="margin-top: 1rem;"></div>
+```
+#### el.style.cssText
 Возвращает строку с содержанием инлайнового стиля элемента (только инлайнового). Может менять инлайновые стили, перезаписывая их.
 ```html
 <p id="test" style="color: red;">Some text.</p>
@@ -26,7 +32,7 @@ el.style.cssText += 'color: green;';
 el.style.cssText; // margin-top: 50px;color: green;
 ```
 
-#### CSSStyleDeclaration.length
+#### el.style.length
 Только чтение. Возвращает количество нлайновых ```style declarations``` указанного элемента. Если использовано сокраженное свойство, указывается количество входящих в него элементарных свойств.
 ```html
 <div id="test" style="padding: 20px;">Lorem ipsum</div>
@@ -39,12 +45,10 @@ test.style.length; // 4
 test2.style.length; // 1
 ```
 
-#### CSSStyleDeclaration.parentRule
+#### el.style.parentRule
+Возвращает родительские стили.
 
-
-### element.style
-Возвращает ```CSSStyleDeclaration```, который содержится в атрибуте ```style``` указанного элемента. С его помощью можно управлять инлайновыми стилями отдельного html-элемента.
-```javascript
-let el = document.getElementById("test");
-el.style.marginTop = "1rem"; // <div id="test" style="margin-top: 1rem;"></div>
+``javascript
+var declaration = document.styleSheets[0].rules[0].style;
+var rule = declaration.parentRule;
 ```
