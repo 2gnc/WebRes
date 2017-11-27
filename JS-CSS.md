@@ -10,6 +10,7 @@
 
 ## [Таблицы стилей](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet)
 
+[document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | []() | []()
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
