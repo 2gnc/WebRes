@@ -26,6 +26,17 @@ el.style.cssText; // margin-top: 50px;color: green;
 ```
 
 #### CSSStyleDeclaration.length
+Только чтение. Возвращает количество нлайновых ```style declarations``` указанного элемента. Если использовано сокраженное свойство, указывается количество входящих в него элементарных свойств.
+```html
+<div id="test" style="padding: 20px;">Lorem ipsum</div>
+<div id="test2" style="padding-top: 20px;">Lorem ipsum</div>
+```
+```javascript
+let test = document.getElementById( 'test' ),
+    test2 = document.getElementById( 'test2' );
+test.style.length; // 4
+test2.style.length; // 1
+```
 
 #### CSSStyleDeclaration.parentRule
 
