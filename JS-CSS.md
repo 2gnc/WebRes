@@ -6,7 +6,7 @@
 
 ## [Инлайновые стили](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementstyle)
 
-[element.style](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementstyle) | [style.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylecsstext) | [style.length](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylelength) | [style.parentRule](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleparentrule) | [style.getPropertyValue()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertyvalueproperty) | [style.getPropertyPriority()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertypriorityproperty) | [style.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleitemindex)
+[element.style](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementstyle) | [style.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylecsstext) | [style.length](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylelength) | [style.parentRule](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleparentrule) | [style.getPropertyValue()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertyvalueproperty) | [style.getPropertyPriority()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertypriorityproperty) | [style.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleitemindex) | [style.removeProperty()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleremovepropertyproperty)
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
