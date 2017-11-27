@@ -127,3 +127,11 @@ let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 
 
 Объект ```CSSStyleSheet``` представляет собой один файл css-стилей, подключенный к странице. Наследуется от ```StyleSheet```. Содержит в себе css-правила ```CSSRule``` (объекты). Входит в состав ```document.styleSheets```
 
+#### CSSStyleSheet.cssRules
+Возвращает живую коллекцию ``` CSSRuleList``` CSS - правил, содержащихся в ```document.styleSheets[index]```.
+
+#### CSSStyleSheet.deleteRule(index)
+Удаляет указанное правило.
+
+#### CSSStyleSheet.insertRule(rule, index)
+Добавляет указанное правило, где rule - строка.
