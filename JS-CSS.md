@@ -8,17 +8,7 @@
 
 [element.style](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementstyle) | [style.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylecsstext) | [style.length](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylelength) | [style.parentRule](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleparentrule) | [style.getPropertyValue()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertyvalueproperty) | [style.getPropertyPriority()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylegetpropertypriorityproperty) | [style.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleitemindex) | [style.removeProperty()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstyleremovepropertyproperty) | [style.setProperty()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elstylesetpropertypropertyname-value-priority)
 
-## CSSStyleSheet
-
-Объект ```CSSStyleSheet``` представляет собой один файл css-стилей, подключенный к странице. Наследуется от ```StyleSheet```. Содержит в себе css-правила ```CSSRule``` (объекты).
-
-### document.styleSheets
-Свойство, доступное только для чтения, возвращает объект псевдо-массив ```StyleSheetList```, содержащий объекты ```CSSStyleSheet ```.
-```javascript
-// на примере lenta.ru
-let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 1: CSSStyleSheet, 2: CSSStyleSheet, 3: CSSStyleSheet, 4: CSSStyleSheet, 5: CSSStyleSheet, 6: CSSStyleSheet, 7: CSSStyleSheet, length: 8}
-```
-
+## [Таблицы стилей](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet)
 
 
 ### window.getComputedStyle( element, pseudoelement )
@@ -123,4 +113,15 @@ let el = document.getElementById( 'test' );
 console.log( el.style.cssText ); // 
 el.style.setProperty( 'color', 'red' );
 console.log( el.style.cssText ); // color: red;
+```
+
+## CSSStyleSheet
+
+Объект ```CSSStyleSheet``` представляет собой один файл css-стилей, подключенный к странице. Наследуется от ```StyleSheet```. Содержит в себе css-правила ```CSSRule``` (объекты).
+
+### document.styleSheets
+Свойство, доступное только для чтения, возвращает объект псевдо-массив ```StyleSheetList```, содержащий объекты ```CSSStyleSheet ```.
+```javascript
+// на примере lenta.ru
+let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 1: CSSStyleSheet, 2: CSSStyleSheet, 3: CSSStyleSheet, 4: CSSStyleSheet, 5: CSSStyleSheet, 6: CSSStyleSheet, 7: CSSStyleSheet, length: 8}
 ```
