@@ -1,4 +1,4 @@
-[_Узлы: полезные свойства_](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
+[**Узлы: полезные свойства** ](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
 
 [Типы узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodenodetype---тип-узла)
 
@@ -6,27 +6,15 @@
 
 [tagName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtagname) | [outerHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementouterhtml) | [innerText](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinnertext) | [textContent](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtextcontent) | [children](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildren) | [childNodes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildnodes)
 
-[Готовность DOM](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Загрузка-dom)
+[**Готовность DOM**](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Загрузка-dom)
 
-[Поиск и выбор элементов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Поиск-и-выбор-элементов-dom)
-* [querySelector](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentqueryselectorselectors)
-* [querySelectorAll](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentqueryselectorallselectors)
-* [getElementById](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementbyid)
-* [getElementByClassName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementsbyclassname)
-* [getElementByTagName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementsbytagname)
-* [contains](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodecontains-othernode-)
-* [compareDocumentPosition](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#acomparedocumentposition-b-)
+[**Поиск и выбор элементов**](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Поиск-и-выбор-элементов-dom)
 
-[Создание узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Создание-dom-узлов)
-* [createElement](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreateelement)
-* [getAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementgetattribute)
-* [setAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementsetattributename-value)
-* [hasAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementhasattribute)
-* [attributes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementattributes)
-* [removeAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementremoveattribute)
-* [createTextNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatetextnode)
-* [createDocumentFragment](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatedocumentfragment)
-* [cloneNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeclonenode-truefalse-)
+[querySelector](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentqueryselectorselectors) | [querySelectorAll](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentqueryselectorallselectors) | [getElementById](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementbyid) | [getElementByClassName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementsbyclassname) | [getElementByTagName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentgetelementsbytagname) | [contains](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodecontains-othernode-) | [compareDocumentPosition](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#acomparedocumentposition-b-)
+
+[**Создание узлов**](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Создание-dom-узлов)
+
+[createElement](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreateelement) | [getAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementgetattribute) | [setAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementsetattributename-value) | [hasAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementhasattribute) | [attributes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementattributes) | [removeAttribute](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementremoveattribute) | [createTextNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatetextnode) | [createDocumentFragment](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatedocumentfragment) | [cloneNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeclonenode-truefalse-)
 
 [Добавление узлов на страницу](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Добавление-узлов-в-dom)
 * [insertAdjacentHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinsertadjacenthtmlkey-code)
