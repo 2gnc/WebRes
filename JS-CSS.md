@@ -10,7 +10,7 @@
 Коллекция из пар ключ-значение (строка), описывающие скомпилированные стили определенного элемента.
 
 #### CSSStyleDeclaration.cssText
-Возвращает строку с содержанием инлайнового стиля элемента (только инлайнового).
+Возвращает строку с содержанием инлайнового стиля элемента (только инлайнового). Может менять инлайновые стили, перезаписывая их.
 ```javascript
 // HTML
 <p id="test" style="color: red;">Some text.</p>
@@ -19,6 +19,10 @@
 //JS
 let el = document.getElementById("test");
 el.style.cssText; // color: red
+el.style.cssText = 'margin-top: 50px;';
+el.style.cssText; // margin-top: 50px
+el.style.cssText += 'color: green;';
+el.style.cssText; // margin-top: 50px;color: green;
 ```
 
 #### CSSStyleDeclaration.length
