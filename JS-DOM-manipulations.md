@@ -33,7 +33,17 @@
 * [createDocumentFragment](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#documentcreatedocumentfragment)
 * [cloneNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeclonenode-truefalse-)
 
-[]()
+[Добавление узлов на страницу](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Добавление-узлов-в-dom)
+* [insertAdjacentHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinsertadjacenthtmlkey-code)
+* [innerHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinnerhtml-elementinnerhtml)
+* [appendChild](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeappendchild)
+* [insertBefore](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeinsertbefore)
+
+[Удаление узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Удаление-узлов-из-dom)
+* [removeChild](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#noderemovechild)
+
+[Скрытие узлов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Скрытие-dom-элементов)
+* [hidden](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementhidden)
 
 
 # Взаимодействие с DOM
