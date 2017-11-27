@@ -4,7 +4,7 @@
 
 ### [Свойства элементов](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Свойства-dom-элементов-elnodetype--1)
 
-[tagName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtagname) | [outerHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementouterhtml) | [innerText](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinnertext) | [textContent](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtextcontent) | [children](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildren) | [childNodes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildnodes)
+[tagName](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtagname) | [outerHTML](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementouterhtml) | [innerText](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementinnertext) | [textContent](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#elementtextcontent) | [children](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildren) | [childNodes](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodechildnodes) | [parentNode](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#nodeparentnode)
 
 ### [Готовность DOM](https://github.com/2gnc/WebRes/blob/master/JS-DOM-manipulations.md#Загрузка-dom)
 
