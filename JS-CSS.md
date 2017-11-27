@@ -9,6 +9,16 @@
 ### CSSStyleDeclaration
 Коллекция из пар ключ-значение (строка), описывающие скомпилированные стили определенного элемента.
 
-#### Свойства:
+#### CSSStyleDeclaration.cssText
 
-**CSSStyleDeclaration.cssText**
+#### CSSStyleDeclaration.length
+
+#### CSSStyleDeclaration.parentRule
+
+
+### element.style
+Возвращает ```CSSStyleDeclaration```, который содержится в атрибуте ```style``` указанного элемента. С его помощью можно управлять инлайновыми стилями отдельного html-элемента.
+```javascript
+let el = document.getElementById("test");
+el.style.marginTop = "1rem"; // <div id="test" style="margin-top: 1rem;"></div>
+```
