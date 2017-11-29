@@ -13,7 +13,7 @@
 [document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | [CSSStyleSheet.cssRules](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetcssrules) | [CSSStyleSheet.deleteRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetdeleteruleindex) | [CSSStyleSheet.insertRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetinsertrulerule-index) | [CSSRule.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssrulecsstext)
 
 ## [Работа с классами HTML элементов](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist)
-[element.classList](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist) | [element.classList.add()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistadd) | [element.classList.remove()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistremove) | [element.classList.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistitem) | [element.classList.toggle()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslisttoggle) | [element.classList.contains()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistcontains)
+[element.classList](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist) | [element.classList.add()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistadd) | [element.classList.remove()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistremove) | [element.classList.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistitem) | [element.classList.toggle()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslisttoggle) | [element.classList.contains()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistcontains) | [element.classList.value ]()
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
@@ -144,14 +144,22 @@ let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 
 
 
 ### element.classList
-Свойство classList возвращает псевдомассив классов элемента ```element```. У данного свойства есть альтернатива - свойство ```className```, которое возвращает значение атрибута class элемента. Объект, возвращаемый свойством ```classList```, имеет несколько методов:
+Свойство classList возвращает псевдомассив классов элемента ```element```. У данного свойства есть альтернатива - свойство ```className```, которое возвращает значение атрибута class элемента. Объект, возвращаемый свойством ```classList```, имеет несколько методов и свойство:
 
-#### element.classList.add()
+#### element.classList.value 
+Возвращает то же самое, что свойство className - строку с классами элемента.
 
-#### element.classList.remove()
+#### element.classList.add( 'string' )
+Добавляет указанный класс элементу.
 
-#### element.classList.item()
+#### element.classList.remove( 'string' )
+Удаляет указанный класс у элемента. Если такого класса у элемента нет, ошибки не возникнет.
 
-#### element.classList.toggle()
+#### element.classList.item( number )
+Вернет строку с именем класса под указанным номером. Аналогичто работает ```сlassList[Number]```.
 
-#### element.classList.contains()
+#### element.classList.toggle( 'string' )
+Переклчатель: если такого класса нет - добавит, если есть - удалит.
+
+#### element.classList.contains( 'string' )
+Проверяет, есть ли указанный класс, возвращает true или false.
