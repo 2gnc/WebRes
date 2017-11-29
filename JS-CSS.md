@@ -143,3 +143,4 @@ let styleSheetList = document.styleSheets; // StyleSheetList {0: CSSStyleSheet, 
 Строка, содержащая в себе одно правило из таблицы стилей. Например, ```body { background-color: darkblue; }```.
 
 
+### element.classList
