@@ -12,6 +12,9 @@
 
 [document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | [CSSStyleSheet.cssRules](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetcssrules) | [CSSStyleSheet.deleteRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetdeleteruleindex) | [CSSStyleSheet.insertRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetinsertrulerule-index) | [CSSRule.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssrulecsstext)
 
+## [Работа с классами HTML элементов]()
+[]() | []() | []() | []()
+
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
 В качестве первого параметра принимает ```element```, стили которого нужно рассчитать. Второй аргумент  - строка с 
