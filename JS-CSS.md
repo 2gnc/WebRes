@@ -13,7 +13,7 @@
 [document.styleSheets](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#documentstylesheets) | [CSSStyleSheet](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheet) | [CSSStyleSheet.cssRules](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetcssrules) | [CSSStyleSheet.deleteRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetdeleteruleindex) | [CSSStyleSheet.insertRule()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssstylesheetinsertrulerule-index) | [CSSRule.cssText](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#cssrulecsstext)
 
 ## [Работа с классами HTML элементов](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist)
-[element.classList](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist) | [element.classList.add()]() | [element.classList.remove()]() | [element.classList.item()]() | [element.classList.toggle()]() | [element.classList.contains()]()
+[element.classList](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslist) | [element.classList.add()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistadd) | [element.classList.remove()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistremove) | [element.classList.item()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistitem) | [element.classList.toggle()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslisttoggle) | [element.classList.contains()](https://github.com/2gnc/WebRes/blob/master/JS-CSS.md#elementclasslistcontains)
 
 ### window.getComputedStyle( element, pseudoelement )
 Возвращает скомпилированные стили после применения таблиц стилей и инлайновых стилей. 
