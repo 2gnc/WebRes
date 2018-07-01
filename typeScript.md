@@ -1,6 +1,6 @@
 * [Простые типы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
 * [Массивы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Массивы)
-* [Tuples](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Tuples)
+* [Tuples](https://github.com/2gnc/WebRes/blob/master/typeScript.md#tuples)
 * [Типизация переменных](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Типизация-переменных)
 
 ## Простые типы
