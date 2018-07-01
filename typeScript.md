@@ -1,6 +1,6 @@
-* (Примитивные типы)[https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы]
-* (Массивы)[https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы]
-* (Типизация переменных)[https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы]
+* [Примитивные типы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы
+* [Массивы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
+* [Типизация переменных](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
 
 ## Простые типы
 * string
