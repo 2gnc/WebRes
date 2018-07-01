@@ -1,5 +1,6 @@
-* [Примитивные типы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
-* [Типизация массивов](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Типизация-массивов)
+* [Простые типы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
+* [Массивы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Массивы)
+* [Tuples](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Tuples)
 * [Типизация переменных](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Типизация-переменных)
 
 ## Простые типы
@@ -9,7 +10,7 @@
 * any - любой тип (стараться избегать этого типа). 
 * undefined
 
-## Типизация массивов
+## Массивы
 Указываем, какие типы данных может содержать массив. Количество элементов не ограничивается. 
 
 Массив, содержащий только строки.
@@ -20,10 +21,10 @@ const arr: string[] = ['one', 'two']
 ```typescript 
 const arr: string[] = [1, 2]
 ```
-## Кортежи
+## Tuples
 Указываем порядок элементов, их количество и тип. 
 
-Кортеж из числа и строки. 
+Кортеж (tuple) из числа и строки. 
 ```typescript
 ```
 
