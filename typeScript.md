@@ -1,7 +1,7 @@
 * [Простые типы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Простые-типы)
 * [Массивы](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Массивы)
 * [Tuples](https://github.com/2gnc/WebRes/blob/master/typeScript.md#tuples)
-* [Enums]()
+* [Enums](https://github.com/2gnc/WebRes/blob/master/typeScript.md#enum)
 * [Типизация переменных](https://github.com/2gnc/WebRes/blob/master/typeScript.md#Типизация-переменных)
 
 ## Простые типы
@@ -31,6 +31,10 @@ const data: [number, string] = [42, 'ansver'];
 ```
 
 ## Enum
+Перечисление - для присвоения понятных имен числовым значениям.
+```typescript 
+
+```
 
 ## Типизация переменных
 Переменным и константам типы присваиваются при определении, после двоеточия.
