@@ -10,5 +10,9 @@ const NUM: number = 42;
 * string
 * number
 * boolean
-* 
 
+## Специальные типы
+* any - любой тип (стараться избегать этого типа). 
+* undefined
+
+## Массивы
